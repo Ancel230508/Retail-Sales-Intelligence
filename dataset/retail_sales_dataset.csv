@@ -1,0 +1,1201 @@
+Order ID,Order Date,Customer ID,Product,Category,Region,City,Quantity,Unit Price,Discount,Sales,Profit
+ORD-00141,2025-01-01,CUST-0085,Keyboard,Electronics,North,Delhi,1,1299,0.15,1104.15,169.03
+ORD-00195,2025-01-01,CUST-0097,USB-C Hub,Electronics,West,Pune,1,1899,0.2,1519.2,271.56
+ORD-00226,2025-01-01,CUST-0298,Office Chair,Furniture,South,Chennai,4,6499,0.1,23396.4,2976.54
+ORD-00623,2025-01-02,CUST-0136,Monitor,Electronics,North,Jaipur,4,10999,0.1,39596.4,4245.61
+ORD-00174,2025-01-02,CUST-0062,Desk Organizer,Office Supplies,East,Guwahati,4,699,0.0,2796.0,852.78
+ORD-00279,2025-01-02,CUST-0251,Desk Organizer,Office Supplies,East,Guwahati,1,699,0.0,699.0,213.2
+ORD-00899,2025-01-03,CUST-0082,Table Lamp,Furniture,East,Kolkata,5,1499,0.0,7495.0,2211.03
+ORD-00128,2025-01-03,CUST-0260,USB-C Hub,Electronics,South,Kochi,4,1899,0.15,6456.6,1311.26
+ORD-00901,2025-01-03,CUST-0040,Monitor,Electronics,North,Chandigarh,4,10999,0.05,41796.2,5483.0
+ORD-00799,2025-01-03,CUST-0072,Printer Paper,Office Supplies,North,Lucknow,1,399,0.05,379.05,76.26
+ORD-00340,2025-01-03,CUST-0217,Table Lamp,Furniture,West,Pune,4,1499,0.2,4796.8,953.36
+ORD-00469,2025-01-03,CUST-0218,Monitor,Electronics,West,Ahmedabad,4,10999,0.0,43996.0,6819.38
+ORD-00572,2025-01-03,CUST-0138,Printer Paper,Office Supplies,South,Kochi,3,399,0.1,1077.3,190.92
+ORD-00797,2025-01-04,CUST-0112,Headphones,Electronics,North,Delhi,3,2499,0.0,7497.0,1461.91
+ORD-00380,2025-01-04,CUST-0017,Keyboard,Electronics,South,Kochi,2,1299,0.0,2598.0,584.55
+ORD-01196,2025-01-05,CUST-0200,Monitor,Electronics,East,Bhubaneswar,2,10999,0.0,21998.0,3409.69
+ORD-00920,2025-01-05,CUST-0120,Stapler,Office Supplies,North,Delhi,1,199,0.05,189.05,62.61
+ORD-00851,2025-01-06,CUST-0254,Keyboard,Electronics,West,Mumbai,1,1299,0.1,1169.1,207.19
+ORD-00084,2025-01-06,CUST-0274,Headphones,Electronics,West,Surat,4,2499,0.0,9996.0,1949.22
+ORD-00862,2025-01-06,CUST-0189,Keyboard,Electronics,South,Bengaluru,2,1299,0.2,2078.4,267.59
+ORD-00749,2025-01-06,CUST-0028,Headphones,Electronics,West,Mumbai,5,2499,0.1,11245.5,1655.59
+ORD-00089,2025-01-06,CUST-0082,Printer Paper,Office Supplies,West,Surat,4,399,0.0,1596.0,359.1
+ORD-00760,2025-01-06,CUST-0083,Printer Paper,Office Supplies,South,Chennai,4,399,0.05,1516.2,305.04
+ORD-01152,2025-01-07,CUST-0016,Office Chair,Furniture,West,Ahmedabad,3,6499,0.0,19497.0,3411.97
+ORD-00153,2025-01-08,CUST-0276,Notebook Pack,Office Supplies,West,Ahmedabad,1,299,0.0,299.0,97.17
+ORD-00312,2025-01-09,CUST-0261,Notebook Pack,Office Supplies,East,Bhubaneswar,3,299,0.1,807.3,223.8
+ORD-00331,2025-01-09,CUST-0284,Monitor,Electronics,North,Delhi,2,10999,0.0,21998.0,3409.69
+ORD-00037,2025-01-09,CUST-0232,Pen Set,Office Supplies,East,Kolkata,3,149,0.05,424.65,149.13
+ORD-00622,2025-01-09,CUST-0282,Printer Paper,Office Supplies,North,Lucknow,4,399,0.0,1596.0,359.1
+ORD-01074,2025-01-09,CUST-0095,Pen Set,Office Supplies,North,Jaipur,4,149,0.15,506.6,153.54
+ORD-00553,2025-01-10,CUST-0022,Desk Organizer,Office Supplies,East,Patna,1,699,0.05,664.05,186.72
+ORD-00637,2025-01-10,CUST-0018,Desk Organizer,Office Supplies,North,Chandigarh,3,699,0.0,2097.0,639.59
+ORD-00867,2025-01-10,CUST-0253,Monitor,Electronics,East,Bhubaneswar,1,10999,0.05,10449.05,1370.75
+ORD-00854,2025-01-10,CUST-0228,Study Desk,Furniture,North,Jaipur,5,8999,0.15,38245.75,3177.77
+ORD-00233,2025-01-10,CUST-0045,Keyboard,Electronics,South,Hyderabad,5,1299,0.0,6495.0,1461.38
+ORD-00247,2025-01-10,CUST-0065,Headphones,Electronics,South,Chennai,1,2499,0.1,2249.1,331.12
+ORD-00140,2025-01-10,CUST-0090,Table Lamp,Furniture,South,Bengaluru,3,1499,0.1,4047.3,1000.58
+ORD-00043,2025-01-10,CUST-0215,Desk Organizer,Office Supplies,South,Chennai,1,699,0.15,594.15,138.49
+ORD-00841,2025-01-11,CUST-0224,Wireless Mouse,Electronics,East,Guwahati,1,599,0.1,539.1,111.71
+ORD-00543,2025-01-11,CUST-0259,Notebook Pack,Office Supplies,West,Pune,2,299,0.0,598.0,194.35
+ORD-01097,2025-01-12,CUST-0266,Wireless Mouse,Electronics,West,Pune,2,599,0.05,1138.1,263.11
+ORD-00187,2025-01-12,CUST-0232,USB-C Hub,Electronics,North,Chandigarh,3,1899,0.15,4842.45,983.44
+ORD-00256,2025-01-12,CUST-0177,Keyboard,Electronics,West,Surat,1,1299,0.15,1104.15,169.03
+ORD-00250,2025-01-12,CUST-0279,USB-C Hub,Electronics,South,Chennai,2,1899,0.15,3228.3,655.63
+ORD-00507,2025-01-13,CUST-0288,Bookshelf,Furniture,South,Hyderabad,4,4999,0.0,19996.0,3899.22
+ORD-00497,2025-01-14,CUST-0245,Table Lamp,Furniture,West,Surat,1,1499,0.05,1424.05,386.18
+ORD-00430,2025-01-14,CUST-0028,Printer Paper,Office Supplies,West,Surat,5,399,0.15,1695.75,259.6
+ORD-00935,2025-01-14,CUST-0199,Headphones,Electronics,North,Chandigarh,1,2499,0.0,2499.0,487.3
+ORD-00636,2025-01-14,CUST-0153,Wireless Mouse,Electronics,East,Patna,2,599,0.0,1198.0,305.49
+ORD-00191,2025-01-14,CUST-0283,Bookshelf,Furniture,West,Pune,2,4999,0.0,9998.0,1949.61
+ORD-00857,2025-01-15,CUST-0269,USB-C Hub,Electronics,North,Delhi,4,1899,0.0,7596.0,2088.9
+ORD-00628,2025-01-15,CUST-0113,Printer Paper,Office Supplies,East,Patna,1,399,0.15,339.15,51.92
+ORD-01109,2025-01-15,CUST-0166,Desk Organizer,Office Supplies,South,Bengaluru,3,699,0.1,1887.3,485.46
+ORD-00740,2025-01-15,CUST-0130,Study Desk,Furniture,North,Lucknow,1,8999,0.0,8999.0,1394.84
+ORD-00808,2025-01-16,CUST-0247,Bookshelf,Furniture,North,Chandigarh,5,4999,0.05,23745.25,4064.81
+ORD-00419,2025-01-16,CUST-0271,Wireless Mouse,Electronics,East,Kolkata,3,599,0.0,1797.0,458.24
+ORD-00234,2025-01-16,CUST-0028,Pen Set,Office Supplies,East,Patna,3,149,0.15,379.95,115.16
+ORD-00102,2025-01-16,CUST-0035,Pen Set,Office Supplies,North,Lucknow,5,149,0.05,707.75,248.55
+ORD-00769,2025-01-16,CUST-0288,Stapler,Office Supplies,South,Hyderabad,4,199,0.1,716.4,220.09
+ORD-00110,2025-01-16,CUST-0131,Table Lamp,Furniture,North,Jaipur,1,1499,0.15,1274.15,284.25
+ORD-00427,2025-01-17,CUST-0152,Keyboard,Electronics,East,Patna,5,1299,0.2,5196.0,668.98
+ORD-01133,2025-01-17,CUST-0063,Bookshelf,Furniture,West,Pune,3,4999,0.0,14997.0,2924.41
+ORD-01084,2025-01-17,CUST-0107,Study Desk,Furniture,West,Mumbai,5,8999,0.0,44995.0,6974.22
+ORD-00433,2025-01-18,CUST-0264,Study Desk,Furniture,North,Chandigarh,2,8999,0.05,17098.1,2243.0
+ORD-00879,2025-01-18,CUST-0108,Wireless Mouse,Electronics,East,Bhubaneswar,3,599,0.1,1617.3,335.14
+ORD-00070,2025-01-19,CUST-0029,Stapler,Office Supplies,East,Kolkata,2,199,0.1,358.2,110.05
+ORD-00681,2025-01-19,CUST-0264,Headphones,Electronics,East,Bhubaneswar,3,2499,0.2,5997.6,592.26
+ORD-00522,2025-01-19,CUST-0106,Headphones,Electronics,South,Kochi,2,2499,0.1,4498.2,662.23
+ORD-01150,2025-01-19,CUST-0291,Wireless Mouse,Electronics,West,Surat,5,599,0.2,2396.0,380.37
+ORD-01105,2025-01-20,CUST-0085,Study Desk,Furniture,West,Mumbai,3,8999,0.1,24297.3,2605.21
+ORD-00198,2025-01-21,CUST-0239,Desk Organizer,Office Supplies,North,Lucknow,1,699,0.05,664.05,186.72
+ORD-00351,2025-01-22,CUST-0105,Study Desk,Furniture,West,Mumbai,5,8999,0.15,38245.75,3177.77
+ORD-00792,2025-01-22,CUST-0119,Office Chair,Furniture,East,Kolkata,5,6499,0.0,32495.0,5686.62
+ORD-00319,2025-01-22,CUST-0251,Monitor,Electronics,West,Ahmedabad,5,10999,0.05,52245.25,6853.75
+ORD-00189,2025-01-23,CUST-0135,Wireless Mouse,Electronics,East,Patna,1,599,0.05,569.05,131.56
+ORD-00392,2025-01-23,CUST-0185,Notebook Pack,Office Supplies,South,Kochi,1,299,0.15,254.15,64.32
+ORD-00625,2025-01-23,CUST-0058,USB-C Hub,Electronics,North,Chandigarh,2,1899,0.05,3608.1,906.3
+ORD-00062,2025-01-23,CUST-0042,Table Lamp,Furniture,North,Lucknow,4,1499,0.0,5996.0,1768.82
+ORD-00028,2025-01-24,CUST-0025,Wireless Mouse,Electronics,East,Bhubaneswar,3,599,0.15,1527.45,279.66
+ORD-00614,2025-01-24,CUST-0135,Table Lamp,Furniture,North,Lucknow,1,1499,0.1,1349.1,333.53
+ORD-00684,2025-01-24,CUST-0256,Headphones,Electronics,South,Bengaluru,4,2499,0.0,9996.0,1949.22
+ORD-00785,2025-01-24,CUST-0063,USB-C Hub,Electronics,East,Kolkata,2,1899,0.2,3038.4,543.11
+ORD-00213,2025-01-24,CUST-0097,Printer Paper,Office Supplies,South,Hyderabad,2,399,0.1,718.2,127.28
+ORD-01075,2025-01-25,CUST-0196,Headphones,Electronics,East,Guwahati,1,2499,0.1,2249.1,331.12
+ORD-00531,2025-01-25,CUST-0136,Notebook Pack,Office Supplies,North,Delhi,5,299,0.1,1345.5,373.0
+ORD-00177,2025-01-25,CUST-0060,Office Chair,Furniture,South,Hyderabad,5,6499,0.05,30870.25,4667.09
+ORD-00536,2025-01-25,CUST-0103,Office Chair,Furniture,North,Chandigarh,5,6499,0.1,29245.5,3720.68
+ORD-00440,2025-01-26,CUST-0199,Notebook Pack,Office Supplies,West,Ahmedabad,3,299,0.0,897.0,291.52
+ORD-01044,2025-01-26,CUST-0037,Office Chair,Furniture,North,Lucknow,1,6499,0.0,6499.0,1137.33
+ORD-00601,2025-01-26,CUST-0026,Desk Organizer,Office Supplies,South,Chennai,2,699,0.1,1258.2,323.64
+ORD-00794,2025-01-26,CUST-0044,Headphones,Electronics,North,Lucknow,1,2499,0.05,2374.05,406.4
+ORD-00090,2025-01-26,CUST-0185,Printer Paper,Office Supplies,East,Patna,4,399,0.0,1596.0,359.1
+ORD-00942,2025-01-27,CUST-0104,USB-C Hub,Electronics,West,Ahmedabad,3,1899,0.0,5697.0,1566.67
+ORD-00066,2025-01-27,CUST-0087,Pen Set,Office Supplies,East,Patna,3,149,0.1,402.3,131.64
+ORD-00770,2025-01-27,CUST-0085,Study Desk,Furniture,South,Hyderabad,4,8999,0.0,35996.0,5579.38
+ORD-00267,2025-01-28,CUST-0290,Notebook Pack,Office Supplies,North,Delhi,3,299,0.2,717.6,164.15
+ORD-00007,2025-01-28,CUST-0141,Pen Set,Office Supplies,East,Bhubaneswar,2,149,0.05,283.1,99.42
+ORD-01168,2025-01-28,CUST-0060,USB-C Hub,Electronics,East,Guwahati,3,1899,0.05,5412.15,1359.45
+ORD-00644,2025-01-28,CUST-0100,Pen Set,Office Supplies,North,Lucknow,1,149,0.0,149.0,55.88
+ORD-00692,2025-01-29,CUST-0238,Pen Set,Office Supplies,East,Kolkata,5,149,0.0,745.0,279.38
+ORD-00248,2025-01-29,CUST-0041,Headphones,Electronics,West,Mumbai,3,2499,0.0,7497.0,1461.91
+ORD-00633,2025-01-29,CUST-0181,Notebook Pack,Office Supplies,East,Guwahati,1,299,0.1,269.1,74.6
+ORD-00830,2025-01-29,CUST-0125,Wireless Mouse,Electronics,West,Mumbai,4,599,0.05,2276.2,526.22
+ORD-01175,2025-01-29,CUST-0050,Bookshelf,Furniture,North,Lucknow,1,4999,0.0,4999.0,974.8
+ORD-01032,2025-01-29,CUST-0091,Headphones,Electronics,North,Lucknow,3,2499,0.05,7122.15,1219.2
+ORD-00044,2025-01-30,CUST-0120,Stapler,Office Supplies,West,Pune,1,199,0.2,159.2,41.19
+ORD-00514,2025-01-30,CUST-0299,Study Desk,Furniture,West,Ahmedabad,1,8999,0.1,8099.1,868.4
+ORD-00376,2025-01-30,CUST-0169,Stapler,Office Supplies,North,Delhi,2,199,0.1,358.2,110.05
+ORD-01023,2025-01-31,CUST-0036,Headphones,Electronics,South,Kochi,4,2499,0.2,7996.8,789.68
+ORD-00810,2025-01-31,CUST-0216,Monitor,Electronics,West,Pune,2,10999,0.05,20898.1,2741.5
+ORD-00661,2025-01-31,CUST-0216,Printer Paper,Office Supplies,North,Jaipur,2,399,0.2,638.4,82.19
+ORD-00364,2025-01-31,CUST-0186,Office Chair,Furniture,East,Guwahati,3,6499,0.05,18522.15,2800.26
+ORD-00518,2025-02-01,CUST-0121,Table Lamp,Furniture,North,Delhi,1,1499,0.05,1424.05,386.18
+ORD-00523,2025-02-01,CUST-0082,Stapler,Office Supplies,East,Patna,3,199,0.15,507.45,143.65
+ORD-00253,2025-02-01,CUST-0174,Keyboard,Electronics,North,Delhi,2,1299,0.2,2078.4,267.59
+ORD-00181,2025-02-02,CUST-0288,Study Desk,Furniture,North,Delhi,1,8999,0.05,8549.05,1121.5
+ORD-00036,2025-02-03,CUST-0225,Keyboard,Electronics,North,Chandigarh,5,1299,0.15,5520.75,845.16
+ORD-00900,2025-02-03,CUST-0232,USB-C Hub,Electronics,North,Delhi,3,1899,0.15,4842.45,983.44
+ORD-01046,2025-02-03,CUST-0071,Table Lamp,Furniture,West,Mumbai,1,1499,0.0,1499.0,442.2
+ORD-00737,2025-02-03,CUST-0056,Notebook Pack,Office Supplies,West,Surat,3,299,0.05,852.15,256.65
+ORD-00855,2025-02-03,CUST-0064,Printer Paper,Office Supplies,North,Delhi,5,399,0.15,1695.75,259.6
+ORD-00548,2025-02-04,CUST-0173,Table Lamp,Furniture,West,Mumbai,3,1499,0.1,4047.3,1000.58
+ORD-01187,2025-02-04,CUST-0081,Desk Organizer,Office Supplies,West,Surat,2,699,0.0,1398.0,426.39
+ORD-00786,2025-02-04,CUST-0273,Office Chair,Furniture,South,Hyderabad,5,6499,0.0,32495.0,5686.62
+ORD-00396,2025-02-05,CUST-0065,Monitor,Electronics,North,Lucknow,5,10999,0.1,49495.5,5307.02
+ORD-00815,2025-02-05,CUST-0009,Study Desk,Furniture,South,Hyderabad,3,8999,0.0,26997.0,4184.53
+ORD-01080,2025-02-05,CUST-0013,Study Desk,Furniture,North,Jaipur,2,8999,0.1,16198.2,1736.81
+ORD-00615,2025-02-05,CUST-0261,Headphones,Electronics,East,Kolkata,5,2499,0.1,11245.5,1655.59
+ORD-00342,2025-02-05,CUST-0086,Pen Set,Office Supplies,West,Ahmedabad,3,149,0.15,379.95,115.16
+ORD-00746,2025-02-06,CUST-0228,Stapler,Office Supplies,East,Patna,2,199,0.1,358.2,110.05
+ORD-00908,2025-02-06,CUST-0110,Wireless Mouse,Electronics,South,Chennai,5,599,0.0,2995.0,763.73
+ORD-00913,2025-02-06,CUST-0049,Stapler,Office Supplies,West,Mumbai,2,199,0.15,338.3,95.77
+ORD-00759,2025-02-06,CUST-0169,Monitor,Electronics,North,Delhi,1,10999,0.0,10999.0,1704.84
+ORD-00129,2025-02-07,CUST-0187,Pen Set,Office Supplies,East,Bhubaneswar,1,149,0.0,149.0,55.88
+ORD-00689,2025-02-07,CUST-0264,Monitor,Electronics,West,Mumbai,1,10999,0.05,10449.05,1370.75
+ORD-00984,2025-02-07,CUST-0123,Pen Set,Office Supplies,South,Bengaluru,4,149,0.2,476.8,132.91
+ORD-00136,2025-02-07,CUST-0110,Study Desk,Furniture,East,Kolkata,3,8999,0.0,26997.0,4184.53
+ORD-01031,2025-02-07,CUST-0019,Notebook Pack,Office Supplies,West,Surat,3,299,0.0,897.0,291.52
+ORD-00877,2025-02-08,CUST-0253,Table Lamp,Furniture,North,Jaipur,2,1499,0.05,2848.1,772.36
+ORD-00922,2025-02-08,CUST-0292,USB-C Hub,Electronics,East,Guwahati,2,1899,0.0,3798.0,1044.45
+ORD-00478,2025-02-08,CUST-0022,Notebook Pack,Office Supplies,East,Bhubaneswar,1,299,0.1,269.1,74.6
+ORD-01138,2025-02-08,CUST-0268,Monitor,Electronics,West,Ahmedabad,1,10999,0.15,9349.15,776.8
+ORD-00781,2025-02-08,CUST-0113,Monitor,Electronics,East,Guwahati,4,10999,0.1,39596.4,4245.61
+ORD-00756,2025-02-08,CUST-0289,Study Desk,Furniture,South,Hyderabad,1,8999,0.15,7649.15,635.55
+ORD-00734,2025-02-09,CUST-0173,Study Desk,Furniture,West,Pune,1,8999,0.05,8549.05,1121.5
+ORD-00564,2025-02-09,CUST-0277,Bookshelf,Furniture,North,Chandigarh,3,4999,0.05,14247.15,2438.89
+ORD-00473,2025-02-10,CUST-0200,Stapler,Office Supplies,West,Pune,3,199,0.15,507.45,143.65
+ORD-00149,2025-02-10,CUST-0153,Keyboard,Electronics,West,Pune,5,1299,0.0,6495.0,1461.38
+ORD-00791,2025-02-10,CUST-0021,Study Desk,Furniture,East,Patna,5,8999,0.1,40495.5,4342.02
+ORD-00477,2025-02-11,CUST-0015,Notebook Pack,Office Supplies,West,Pune,1,299,0.0,299.0,97.17
+ORD-00593,2025-02-11,CUST-0078,Desk Organizer,Office Supplies,East,Guwahati,1,699,0.1,629.1,161.82
+ORD-00158,2025-02-11,CUST-0181,Monitor,Electronics,East,Kolkata,2,10999,0.15,18698.3,1553.61
+ORD-00446,2025-02-12,CUST-0197,Headphones,Electronics,South,Hyderabad,1,2499,0.0,2499.0,487.3
+ORD-01019,2025-02-12,CUST-0299,Office Chair,Furniture,East,Guwahati,2,6499,0.05,12348.1,1866.84
+ORD-01079,2025-02-13,CUST-0131,Study Desk,Furniture,North,Chandigarh,5,8999,0.05,42745.25,5607.5
+ORD-00227,2025-02-13,CUST-0293,Notebook Pack,Office Supplies,South,Bengaluru,1,299,0.1,269.1,74.6
+ORD-00583,2025-02-13,CUST-0137,Stapler,Office Supplies,West,Ahmedabad,3,199,0.1,537.3,165.07
+ORD-01039,2025-02-13,CUST-0265,Office Chair,Furniture,South,Hyderabad,1,6499,0.1,5849.1,744.14
+ORD-00335,2025-02-14,CUST-0235,Wireless Mouse,Electronics,South,Hyderabad,4,599,0.0,2396.0,610.98
+ORD-01081,2025-02-14,CUST-0166,Pen Set,Office Supplies,West,Ahmedabad,2,149,0.0,298.0,111.75
+ORD-00350,2025-02-14,CUST-0135,Study Desk,Furniture,South,Kochi,3,8999,0.05,25647.15,3364.5
+ORD-00162,2025-02-14,CUST-0298,Monitor,Electronics,South,Bengaluru,1,10999,0.1,9899.1,1061.4
+ORD-00673,2025-02-15,CUST-0095,Wireless Mouse,Electronics,North,Jaipur,3,599,0.1,1617.3,335.14
+ORD-00902,2025-02-15,CUST-0097,Table Lamp,Furniture,North,Chandigarh,1,1499,0.15,1274.15,284.25
+ORD-00270,2025-02-16,CUST-0036,Table Lamp,Furniture,North,Chandigarh,2,1499,0.05,2848.1,772.36
+ORD-00076,2025-02-16,CUST-0219,Wireless Mouse,Electronics,East,Patna,3,599,0.05,1707.15,394.67
+ORD-00282,2025-02-16,CUST-0213,Wireless Mouse,Electronics,East,Kolkata,1,599,0.15,509.15,93.22
+ORD-00291,2025-02-16,CUST-0105,Stapler,Office Supplies,South,Hyderabad,5,199,0.2,796.0,205.96
+ORD-00619,2025-02-17,CUST-0140,Notebook Pack,Office Supplies,East,Kolkata,5,299,0.2,1196.0,273.58
+ORD-00800,2025-02-18,CUST-0055,Monitor,Electronics,West,Surat,3,10999,0.05,31347.15,4112.25
+ORD-00660,2025-02-18,CUST-0008,Pen Set,Office Supplies,East,Guwahati,3,149,0.05,424.65,149.13
+ORD-00658,2025-02-18,CUST-0131,Office Chair,Furniture,South,Bengaluru,3,6499,0.0,19497.0,3411.97
+ORD-00649,2025-02-18,CUST-0035,Stapler,Office Supplies,South,Hyderabad,5,199,0.0,995.0,353.23
+ORD-01092,2025-02-18,CUST-0020,Office Chair,Furniture,West,Mumbai,4,6499,0.0,25996.0,4549.3
+ORD-01110,2025-02-19,CUST-0137,Wireless Mouse,Electronics,East,Patna,4,599,0.1,2156.4,446.85
+ORD-00958,2025-02-19,CUST-0206,Notebook Pack,Office Supplies,North,Lucknow,4,299,0.0,1196.0,388.7
+ORD-00182,2025-02-19,CUST-0089,Desk Organizer,Office Supplies,North,Chandigarh,1,699,0.0,699.0,213.2
+ORD-00709,2025-02-19,CUST-0100,Desk Organizer,Office Supplies,South,Hyderabad,5,699,0.0,3495.0,1065.98
+ORD-00327,2025-02-19,CUST-0295,Bookshelf,Furniture,East,Patna,4,4999,0.1,17996.4,2649.47
+ORD-00389,2025-02-20,CUST-0248,Headphones,Electronics,North,Delhi,3,2499,0.0,7497.0,1461.91
+ORD-00516,2025-02-20,CUST-0278,Study Desk,Furniture,South,Kochi,5,8999,0.0,44995.0,6974.22
+ORD-00509,2025-02-20,CUST-0159,Office Chair,Furniture,North,Lucknow,2,6499,0.0,12998.0,2274.65
+ORD-00077,2025-02-21,CUST-0113,Table Lamp,Furniture,East,Bhubaneswar,4,1499,0.05,5696.2,1544.72
+ORD-01054,2025-02-21,CUST-0148,Monitor,Electronics,North,Chandigarh,5,10999,0.2,43996.0,2584.76
+ORD-00981,2025-02-21,CUST-0214,Bookshelf,Furniture,North,Chandigarh,1,4999,0.15,4249.15,523.02
+ORD-00033,2025-02-21,CUST-0167,Monitor,Electronics,East,Guwahati,2,10999,0.0,21998.0,3409.69
+ORD-00325,2025-02-21,CUST-0119,USB-C Hub,Electronics,South,Hyderabad,5,1899,0.0,9495.0,2611.12
+ORD-00909,2025-02-22,CUST-0107,Wireless Mouse,Electronics,West,Pune,5,599,0.05,2845.25,657.78
+ORD-00726,2025-02-22,CUST-0057,Table Lamp,Furniture,East,Kolkata,4,1499,0.1,5396.4,1334.11
+ORD-00827,2025-02-22,CUST-0153,Desk Organizer,Office Supplies,South,Bengaluru,3,699,0.1,1887.3,485.46
+ORD-00252,2025-02-22,CUST-0300,Stapler,Office Supplies,East,Kolkata,5,199,0.1,895.5,275.12
+ORD-00678,2025-02-22,CUST-0081,Stapler,Office Supplies,South,Kochi,5,199,0.05,945.25,313.05
+ORD-01086,2025-02-23,CUST-0181,Table Lamp,Furniture,East,Bhubaneswar,5,1499,0.2,5996.0,1191.7
+ORD-00878,2025-02-23,CUST-0175,Printer Paper,Office Supplies,North,Lucknow,1,399,0.1,359.1,63.64
+ORD-01066,2025-02-23,CUST-0104,USB-C Hub,Electronics,South,Chennai,5,1899,0.05,9020.25,2265.74
+ORD-01169,2025-02-24,CUST-0139,USB-C Hub,Electronics,North,Lucknow,2,1899,0.1,3418.2,776.69
+ORD-00607,2025-02-24,CUST-0296,Pen Set,Office Supplies,West,Pune,2,149,0.0,298.0,111.75
+ORD-00307,2025-02-24,CUST-0021,Keyboard,Electronics,West,Ahmedabad,3,1299,0.1,3507.3,621.57
+ORD-00289,2025-02-24,CUST-0059,Headphones,Electronics,West,Pune,1,2499,0.0,2499.0,487.3
+ORD-00485,2025-02-25,CUST-0271,Wireless Mouse,Electronics,West,Surat,4,599,0.0,2396.0,610.98
+ORD-00264,2025-02-25,CUST-0256,Stapler,Office Supplies,South,Bengaluru,1,199,0.1,179.1,55.02
+ORD-00819,2025-02-25,CUST-0066,Monitor,Electronics,East,Patna,5,10999,0.0,54995.0,8524.23
+ORD-00123,2025-02-26,CUST-0087,Table Lamp,Furniture,South,Chennai,5,1499,0.2,5996.0,1191.7
+ORD-00225,2025-02-26,CUST-0128,Printer Paper,Office Supplies,West,Ahmedabad,5,399,0.0,1995.0,448.88
+ORD-00716,2025-02-26,CUST-0023,Office Chair,Furniture,East,Bhubaneswar,2,6499,0.1,11698.2,1488.27
+ORD-00620,2025-02-27,CUST-0051,Keyboard,Electronics,West,Pune,2,1299,0.0,2598.0,584.55
+ORD-00953,2025-02-28,CUST-0132,Table Lamp,Furniture,South,Chennai,5,1499,0.1,6745.5,1667.64
+ORD-01102,2025-02-28,CUST-0178,Wireless Mouse,Electronics,West,Pune,3,599,0.15,1527.45,279.66
+ORD-00657,2025-02-28,CUST-0058,Printer Paper,Office Supplies,West,Mumbai,2,399,0.0,798.0,179.55
+ORD-00691,2025-02-28,CUST-0298,Stapler,Office Supplies,South,Hyderabad,1,199,0.0,199.0,70.65
+ORD-00833,2025-03-01,CUST-0192,Bookshelf,Furniture,North,Lucknow,5,4999,0.05,23745.25,4064.81
+ORD-01061,2025-03-01,CUST-0004,Office Chair,Furniture,South,Kochi,4,6499,0.05,24696.2,3733.68
+ORD-00237,2025-03-01,CUST-0053,Stapler,Office Supplies,West,Surat,1,199,0.0,199.0,70.65
+ORD-01139,2025-03-02,CUST-0225,Office Chair,Furniture,West,Mumbai,3,6499,0.15,16572.45,1708.42
+ORD-00438,2025-03-02,CUST-0279,Keyboard,Electronics,East,Bhubaneswar,3,1299,0.0,3897.0,876.83
+ORD-01148,2025-03-03,CUST-0115,Stapler,Office Supplies,South,Kochi,4,199,0.2,636.8,164.77
+ORD-00356,2025-03-03,CUST-0141,Table Lamp,Furniture,South,Chennai,3,1499,0.05,4272.15,1158.54
+ORD-00305,2025-03-03,CUST-0213,Keyboard,Electronics,South,Bengaluru,5,1299,0.15,5520.75,845.16
+ORD-00530,2025-03-04,CUST-0254,Pen Set,Office Supplies,South,Kochi,4,149,0.1,536.4,175.52
+ORD-00828,2025-03-04,CUST-0239,Wireless Mouse,Electronics,South,Bengaluru,5,599,0.1,2695.5,558.57
+ORD-00672,2025-03-05,CUST-0201,Headphones,Electronics,South,Kochi,3,2499,0.1,6747.3,993.35
+ORD-00605,2025-03-05,CUST-0095,Study Desk,Furniture,South,Hyderabad,3,8999,0.1,24297.3,2605.21
+ORD-00026,2025-03-05,CUST-0177,Office Chair,Furniture,North,Lucknow,1,6499,0.0,6499.0,1137.33
+ORD-00329,2025-03-05,CUST-0056,Stapler,Office Supplies,West,Pune,3,199,0.0,597.0,211.94
+ORD-00967,2025-03-06,CUST-0100,Office Chair,Furniture,North,Delhi,4,6499,0.1,23396.4,2976.54
+ORD-00926,2025-03-07,CUST-0080,Study Desk,Furniture,East,Guwahati,2,8999,0.0,17998.0,2789.69
+ORD-00388,2025-03-07,CUST-0013,USB-C Hub,Electronics,North,Lucknow,4,1899,0.0,7596.0,2088.9
+ORD-01195,2025-03-07,CUST-0291,Study Desk,Furniture,West,Ahmedabad,3,8999,0.2,21597.6,1268.86
+ORD-00035,2025-03-07,CUST-0050,Monitor,Electronics,South,Kochi,2,10999,0.2,17598.4,1033.91
+ORD-00533,2025-03-08,CUST-0148,Desk Organizer,Office Supplies,North,Chandigarh,2,699,0.0,1398.0,426.39
+ORD-01128,2025-03-08,CUST-0169,Printer Paper,Office Supplies,North,Delhi,4,399,0.0,1596.0,359.1
+ORD-00047,2025-03-08,CUST-0280,Monitor,Electronics,North,Delhi,5,10999,0.1,49495.5,5307.02
+ORD-00164,2025-03-08,CUST-0082,Notebook Pack,Office Supplies,East,Bhubaneswar,3,299,0.1,807.3,223.8
+ORD-00193,2025-03-08,CUST-0286,Table Lamp,Furniture,North,Jaipur,1,1499,0.0,1499.0,442.2
+ORD-00493,2025-03-08,CUST-0067,Printer Paper,Office Supplies,South,Chennai,1,399,0.1,359.1,63.64
+ORD-00310,2025-03-08,CUST-0082,Bookshelf,Furniture,West,Surat,4,4999,0.05,18996.2,3251.85
+ORD-00293,2025-03-09,CUST-0196,Notebook Pack,Office Supplies,South,Chennai,1,299,0.05,284.05,85.55
+ORD-00918,2025-03-09,CUST-0266,Notebook Pack,Office Supplies,South,Chennai,5,299,0.1,1345.5,373.0
+ORD-00336,2025-03-10,CUST-0159,Notebook Pack,Office Supplies,South,Kochi,3,299,0.15,762.45,192.97
+ORD-00645,2025-03-10,CUST-0042,Headphones,Electronics,East,Kolkata,4,2499,0.1,8996.4,1324.47
+ORD-00402,2025-03-10,CUST-0207,Desk Organizer,Office Supplies,North,Jaipur,1,699,0.0,699.0,213.2
+ORD-00353,2025-03-10,CUST-0037,USB-C Hub,Electronics,West,Pune,2,1899,0.0,3798.0,1044.45
+ORD-00401,2025-03-11,CUST-0035,Notebook Pack,Office Supplies,North,Chandigarh,5,299,0.1,1345.5,373.0
+ORD-00597,2025-03-12,CUST-0020,Table Lamp,Furniture,North,Lucknow,1,1499,0.1,1349.1,333.53
+ORD-01151,2025-03-13,CUST-0026,Monitor,Electronics,North,Jaipur,4,10999,0.15,37396.6,3107.22
+ORD-00652,2025-03-13,CUST-0013,Notebook Pack,Office Supplies,West,Surat,2,299,0.1,538.2,149.2
+ORD-00391,2025-03-13,CUST-0272,Printer Paper,Office Supplies,West,Surat,4,399,0.2,1276.8,164.39
+ORD-00416,2025-03-14,CUST-0010,Table Lamp,Furniture,East,Kolkata,1,1499,0.05,1424.05,386.18
+ORD-00671,2025-03-15,CUST-0149,Headphones,Electronics,West,Surat,1,2499,0.05,2374.05,406.4
+ORD-00001,2025-03-15,CUST-0029,Desk Organizer,Office Supplies,North,Jaipur,5,699,0.1,3145.5,809.09
+ORD-00235,2025-03-15,CUST-0152,Bookshelf,Furniture,South,Hyderabad,2,4999,0.15,8498.3,1046.04
+ORD-00034,2025-03-15,CUST-0286,Keyboard,Electronics,East,Bhubaneswar,5,1299,0.05,6170.25,1241.36
+ORD-00406,2025-03-16,CUST-0179,Table Lamp,Furniture,East,Kolkata,2,1499,0.1,2698.2,667.05
+ORD-00308,2025-03-17,CUST-0135,Office Chair,Furniture,East,Patna,4,6499,0.15,22096.6,2277.9
+ORD-00412,2025-03-17,CUST-0016,Office Chair,Furniture,East,Bhubaneswar,3,6499,0.0,19497.0,3411.97
+ORD-00598,2025-03-17,CUST-0184,Headphones,Electronics,West,Surat,3,2499,0.0,7497.0,1461.91
+ORD-01040,2025-03-18,CUST-0163,Desk Organizer,Office Supplies,North,Jaipur,2,699,0.15,1188.3,276.98
+ORD-00813,2025-03-18,CUST-0036,Desk Organizer,Office Supplies,South,Kochi,1,699,0.1,629.1,161.82
+ORD-00199,2025-03-18,CUST-0278,Office Chair,Furniture,East,Patna,4,6499,0.0,25996.0,4549.3
+ORD-01013,2025-03-18,CUST-0277,Monitor,Electronics,West,Surat,2,10999,0.0,21998.0,3409.69
+ORD-00993,2025-03-19,CUST-0071,Monitor,Electronics,West,Mumbai,3,10999,0.0,32997.0,5114.53
+ORD-01174,2025-03-20,CUST-0059,Keyboard,Electronics,East,Bhubaneswar,4,1299,0.0,5196.0,1169.1
+ORD-00284,2025-03-20,CUST-0292,Pen Set,Office Supplies,South,Chennai,3,149,0.15,379.95,115.16
+ORD-00639,2025-03-20,CUST-0195,Monitor,Electronics,West,Mumbai,3,10999,0.1,29697.3,3184.21
+ORD-00318,2025-03-20,CUST-0051,Printer Paper,Office Supplies,North,Chandigarh,3,399,0.0,1197.0,269.32
+ORD-00387,2025-03-22,CUST-0214,Office Chair,Furniture,South,Hyderabad,4,6499,0.15,22096.6,2277.9
+ORD-00773,2025-03-22,CUST-0285,Table Lamp,Furniture,West,Surat,4,1499,0.05,5696.2,1544.72
+ORD-00555,2025-03-22,CUST-0227,Keyboard,Electronics,East,Kolkata,5,1299,0.0,6495.0,1461.38
+ORD-00714,2025-03-23,CUST-0093,Desk Organizer,Office Supplies,East,Kolkata,3,699,0.15,1782.45,415.47
+ORD-00574,2025-03-23,CUST-0011,USB-C Hub,Electronics,North,Lucknow,3,1899,0.2,4557.6,814.67
+ORD-00230,2025-03-23,CUST-0268,Keyboard,Electronics,South,Hyderabad,5,1299,0.05,6170.25,1241.36
+ORD-00303,2025-03-23,CUST-0269,Keyboard,Electronics,West,Pune,4,1299,0.1,4676.4,828.76
+ORD-00184,2025-03-23,CUST-0166,Printer Paper,Office Supplies,West,Pune,1,399,0.05,379.05,76.26
+ORD-00421,2025-03-24,CUST-0182,Pen Set,Office Supplies,West,Pune,5,149,0.2,596.0,166.13
+ORD-00876,2025-03-24,CUST-0008,Headphones,Electronics,South,Hyderabad,1,2499,0.15,2124.15,261.46
+ORD-01135,2025-03-25,CUST-0155,Bookshelf,Furniture,East,Patna,2,4999,0.1,8998.2,1324.73
+ORD-01111,2025-03-25,CUST-0199,USB-C Hub,Electronics,West,Pune,2,1899,0.0,3798.0,1044.45
+ORD-00708,2025-03-26,CUST-0092,Desk Organizer,Office Supplies,West,Ahmedabad,3,699,0.0,2097.0,639.59
+ORD-00148,2025-03-26,CUST-0125,Printer Paper,Office Supplies,West,Surat,2,399,0.05,758.1,152.52
+ORD-00866,2025-03-26,CUST-0277,Study Desk,Furniture,West,Mumbai,4,8999,0.15,30596.6,2542.22
+ORD-00832,2025-03-26,CUST-0063,Headphones,Electronics,East,Kolkata,1,2499,0.05,2374.05,406.4
+ORD-00309,2025-03-26,CUST-0141,Pen Set,Office Supplies,West,Pune,2,149,0.0,298.0,111.75
+ORD-00221,2025-03-27,CUST-0042,Wireless Mouse,Electronics,North,Jaipur,4,599,0.15,2036.6,372.88
+ORD-00739,2025-03-28,CUST-0226,Keyboard,Electronics,South,Hyderabad,1,1299,0.1,1169.1,207.19
+ORD-00072,2025-03-28,CUST-0180,Bookshelf,Furniture,East,Guwahati,4,4999,0.05,18996.2,3251.85
+ORD-00659,2025-03-28,CUST-0147,Monitor,Electronics,South,Hyderabad,3,10999,0.05,31347.15,4112.25
+ORD-00161,2025-03-28,CUST-0038,Stapler,Office Supplies,North,Delhi,5,199,0.1,895.5,275.12
+ORD-00752,2025-03-28,CUST-0050,Headphones,Electronics,North,Jaipur,2,2499,0.2,3998.4,394.84
+ORD-01068,2025-03-28,CUST-0084,Pen Set,Office Supplies,South,Hyderabad,4,149,0.15,506.6,153.54
+ORD-00720,2025-03-29,CUST-0132,Printer Paper,Office Supplies,East,Patna,5,399,0.2,1596.0,205.48
+ORD-00019,2025-03-29,CUST-0091,Headphones,Electronics,South,Chennai,3,2499,0.05,7122.15,1219.2
+ORD-00171,2025-03-30,CUST-0064,Monitor,Electronics,West,Surat,5,10999,0.2,43996.0,2584.76
+ORD-01184,2025-03-30,CUST-0088,Bookshelf,Furniture,East,Guwahati,4,4999,0.15,16996.6,2092.08
+ORD-01014,2025-03-30,CUST-0151,Table Lamp,Furniture,South,Bengaluru,2,1499,0.0,2998.0,884.41
+ORD-00802,2025-03-30,CUST-0184,Wireless Mouse,Electronics,North,Chandigarh,1,599,0.0,599.0,152.75
+ORD-00012,2025-03-31,CUST-0035,Printer Paper,Office Supplies,North,Lucknow,3,399,0.0,1197.0,269.32
+ORD-00710,2025-03-31,CUST-0256,Study Desk,Furniture,North,Chandigarh,5,8999,0.0,44995.0,6974.22
+ORD-00997,2025-03-31,CUST-0093,Desk Organizer,Office Supplies,West,Ahmedabad,2,699,0.0,1398.0,426.39
+ORD-00099,2025-03-31,CUST-0237,Printer Paper,Office Supplies,South,Hyderabad,4,399,0.05,1516.2,305.04
+ORD-00450,2025-03-31,CUST-0104,Monitor,Electronics,North,Jaipur,4,10999,0.05,41796.2,5483.0
+ORD-00408,2025-04-01,CUST-0230,Stapler,Office Supplies,East,Bhubaneswar,1,199,0.1,179.1,55.02
+ORD-00679,2025-04-01,CUST-0223,Keyboard,Electronics,South,Bengaluru,5,1299,0.0,6495.0,1461.38
+ORD-00240,2025-04-02,CUST-0221,Monitor,Electronics,West,Pune,4,10999,0.0,43996.0,6819.38
+ORD-00998,2025-04-02,CUST-0031,Monitor,Electronics,South,Hyderabad,1,10999,0.2,8799.2,516.95
+ORD-00722,2025-04-02,CUST-0068,Headphones,Electronics,West,Mumbai,2,2499,0.0,4998.0,974.61
+ORD-01186,2025-04-02,CUST-0014,Headphones,Electronics,East,Patna,5,2499,0.15,10620.75,1307.29
+ORD-00092,2025-04-03,CUST-0191,Keyboard,Electronics,East,Patna,3,1299,0.15,3312.45,507.1
+ORD-00506,2025-04-04,CUST-0190,USB-C Hub,Electronics,East,Kolkata,5,1899,0.15,8070.75,1639.07
+ORD-00332,2025-04-04,CUST-0011,Table Lamp,Furniture,West,Pune,5,1499,0.05,7120.25,1930.9
+ORD-00762,2025-04-04,CUST-0240,Headphones,Electronics,South,Kochi,4,2499,0.2,7996.8,789.68
+ORD-00844,2025-04-04,CUST-0206,Wireless Mouse,Electronics,South,Chennai,1,599,0.2,479.2,76.07
+ORD-00118,2025-04-05,CUST-0008,Study Desk,Furniture,West,Mumbai,2,8999,0.0,17998.0,2789.69
+ORD-01029,2025-04-05,CUST-0100,Office Chair,Furniture,South,Hyderabad,2,6499,0.2,10398.4,818.87
+ORD-00941,2025-04-05,CUST-0041,Stapler,Office Supplies,North,Chandigarh,2,199,0.05,378.1,125.22
+ORD-00208,2025-04-05,CUST-0038,Study Desk,Furniture,North,Lucknow,3,8999,0.05,25647.15,3364.5
+ORD-00441,2025-04-06,CUST-0097,Keyboard,Electronics,East,Bhubaneswar,5,1299,0.0,6495.0,1461.38
+ORD-00719,2025-04-06,CUST-0014,Notebook Pack,Office Supplies,North,Delhi,5,299,0.0,1495.0,485.88
+ORD-00486,2025-04-06,CUST-0228,Notebook Pack,Office Supplies,West,Mumbai,4,299,0.1,1076.4,298.4
+ORD-00451,2025-04-07,CUST-0290,Table Lamp,Furniture,East,Kolkata,2,1499,0.1,2698.2,667.05
+ORD-00021,2025-04-07,CUST-0234,Printer Paper,Office Supplies,South,Chennai,2,399,0.2,638.4,82.19
+ORD-00529,2025-04-07,CUST-0088,Stapler,Office Supplies,East,Guwahati,3,199,0.15,507.45,143.65
+ORD-00495,2025-04-07,CUST-0111,Table Lamp,Furniture,East,Kolkata,4,1499,0.1,5396.4,1334.11
+ORD-00146,2025-04-07,CUST-0155,Wireless Mouse,Electronics,West,Ahmedabad,1,599,0.05,569.05,131.56
+ORD-00143,2025-04-08,CUST-0237,Printer Paper,Office Supplies,South,Chennai,5,399,0.2,1596.0,205.48
+ORD-01129,2025-04-08,CUST-0187,Office Chair,Furniture,East,Patna,4,6499,0.05,24696.2,3733.68
+ORD-00051,2025-04-09,CUST-0071,Stapler,Office Supplies,East,Bhubaneswar,3,199,0.0,597.0,211.94
+ORD-00078,2025-04-09,CUST-0256,Notebook Pack,Office Supplies,South,Kochi,5,299,0.0,1495.0,485.88
+ORD-00629,2025-04-10,CUST-0249,Headphones,Electronics,West,Pune,5,2499,0.0,12495.0,2436.53
+ORD-01077,2025-04-10,CUST-0072,USB-C Hub,Electronics,South,Kochi,4,1899,0.0,7596.0,2088.9
+ORD-00969,2025-04-10,CUST-0119,Printer Paper,Office Supplies,North,Lucknow,2,399,0.05,758.1,152.52
+ORD-00761,2025-04-10,CUST-0007,Keyboard,Electronics,West,Mumbai,2,1299,0.0,2598.0,584.55
+ORD-00627,2025-04-11,CUST-0217,Office Chair,Furniture,East,Patna,1,6499,0.0,6499.0,1137.33
+ORD-00458,2025-04-11,CUST-0088,Headphones,Electronics,East,Patna,4,2499,0.0,9996.0,1949.22
+ORD-00584,2025-04-12,CUST-0213,USB-C Hub,Electronics,West,Pune,5,1899,0.0,9495.0,2611.12
+ORD-00004,2025-04-12,CUST-0190,Wireless Mouse,Electronics,South,Kochi,1,599,0.15,509.15,93.22
+ORD-01130,2025-04-13,CUST-0055,Monitor,Electronics,South,Kochi,1,10999,0.05,10449.05,1370.75
+ORD-00715,2025-04-13,CUST-0097,Stapler,Office Supplies,West,Mumbai,2,199,0.05,378.1,125.22
+ORD-00200,2025-04-13,CUST-0085,Study Desk,Furniture,South,Kochi,1,8999,0.2,7199.2,422.95
+ORD-00040,2025-04-13,CUST-0094,Keyboard,Electronics,South,Hyderabad,5,1299,0.0,6495.0,1461.38
+ORD-00211,2025-04-13,CUST-0086,Notebook Pack,Office Supplies,West,Surat,2,299,0.0,598.0,194.35
+ORD-00285,2025-04-13,CUST-0109,Desk Organizer,Office Supplies,North,Jaipur,3,699,0.05,1992.15,560.16
+ORD-00711,2025-04-13,CUST-0088,Desk Organizer,Office Supplies,South,Chennai,2,699,0.1,1258.2,323.64
+ORD-00863,2025-04-13,CUST-0001,Table Lamp,Furniture,East,Kolkata,2,1499,0.15,2548.3,568.5
+ORD-00030,2025-04-14,CUST-0007,USB-C Hub,Electronics,North,Lucknow,3,1899,0.05,5412.15,1359.45
+ORD-00360,2025-04-14,CUST-0187,USB-C Hub,Electronics,South,Bengaluru,2,1899,0.1,3418.2,776.69
+ORD-00121,2025-04-14,CUST-0289,Table Lamp,Furniture,East,Patna,5,1499,0.1,6745.5,1667.64
+ORD-00724,2025-04-14,CUST-0290,Printer Paper,Office Supplies,North,Jaipur,1,399,0.05,379.05,76.26
+ORD-00777,2025-04-14,CUST-0293,Printer Paper,Office Supplies,East,Bhubaneswar,4,399,0.05,1516.2,305.04
+ORD-00304,2025-04-14,CUST-0060,Headphones,Electronics,West,Mumbai,5,2499,0.0,12495.0,2436.53
+ORD-01089,2025-04-14,CUST-0289,Keyboard,Electronics,East,Kolkata,5,1299,0.1,5845.5,1035.95
+ORD-00298,2025-04-14,CUST-0143,Headphones,Electronics,East,Kolkata,3,2499,0.15,6372.45,784.37
+ORD-00222,2025-04-15,CUST-0058,Desk Organizer,Office Supplies,West,Mumbai,2,699,0.2,1118.4,233.47
+ORD-00767,2025-04-15,CUST-0088,Study Desk,Furniture,South,Kochi,3,8999,0.05,25647.15,3364.5
+ORD-00886,2025-04-15,CUST-0009,Headphones,Electronics,West,Ahmedabad,1,2499,0.0,2499.0,487.3
+ORD-01072,2025-04-15,CUST-0246,Desk Organizer,Office Supplies,South,Chennai,3,699,0.05,1992.15,560.16
+ORD-01078,2025-04-16,CUST-0280,Desk Organizer,Office Supplies,West,Mumbai,1,699,0.05,664.05,186.72
+ORD-00370,2025-04-16,CUST-0228,Office Chair,Furniture,North,Jaipur,4,6499,0.05,24696.2,3733.68
+ORD-00339,2025-04-16,CUST-0204,Stapler,Office Supplies,East,Guwahati,2,199,0.1,358.2,110.05
+ORD-00223,2025-04-16,CUST-0295,Wireless Mouse,Electronics,North,Jaipur,4,599,0.2,1916.8,304.29
+ORD-00242,2025-04-16,CUST-0126,USB-C Hub,Electronics,South,Chennai,3,1899,0.0,5697.0,1566.67
+ORD-01112,2025-04-17,CUST-0045,Stapler,Office Supplies,North,Lucknow,2,199,0.1,358.2,110.05
+ORD-00505,2025-04-17,CUST-0274,Keyboard,Electronics,South,Kochi,2,1299,0.1,2338.2,414.38
+ORD-00948,2025-04-17,CUST-0192,Desk Organizer,Office Supplies,South,Bengaluru,1,699,0.0,699.0,213.2
+ORD-00754,2025-04-17,CUST-0190,Stapler,Office Supplies,South,Bengaluru,2,199,0.1,358.2,110.05
+ORD-00465,2025-04-17,CUST-0079,USB-C Hub,Electronics,West,Mumbai,3,1899,0.0,5697.0,1566.67
+ORD-00621,2025-04-17,CUST-0193,Pen Set,Office Supplies,West,Mumbai,5,149,0.15,633.25,191.93
+ORD-01122,2025-04-18,CUST-0213,Office Chair,Furniture,West,Pune,3,6499,0.05,18522.15,2800.26
+ORD-00494,2025-04-18,CUST-0102,Stapler,Office Supplies,East,Bhubaneswar,3,199,0.1,537.3,165.07
+ORD-01093,2025-04-18,CUST-0017,Desk Organizer,Office Supplies,West,Mumbai,1,699,0.1,629.1,161.82
+ORD-00713,2025-04-18,CUST-0293,Desk Organizer,Office Supplies,South,Bengaluru,5,699,0.0,3495.0,1065.98
+ORD-00696,2025-04-18,CUST-0170,Table Lamp,Furniture,East,Bhubaneswar,5,1499,0.2,5996.0,1191.7
+ORD-00630,2025-04-19,CUST-0056,Office Chair,Furniture,South,Bengaluru,4,6499,0.15,22096.6,2277.9
+ORD-00042,2025-04-19,CUST-0152,Keyboard,Electronics,West,Mumbai,4,1299,0.0,5196.0,1169.1
+ORD-00124,2025-04-19,CUST-0013,Stapler,Office Supplies,South,Hyderabad,2,199,0.0,398.0,141.29
+ORD-00676,2025-04-19,CUST-0287,Bookshelf,Furniture,West,Ahmedabad,5,4999,0.05,23745.25,4064.81
+ORD-00801,2025-04-20,CUST-0162,Pen Set,Office Supplies,North,Chandigarh,5,149,0.0,745.0,279.38
+ORD-00860,2025-04-20,CUST-0207,Office Chair,Furniture,North,Delhi,3,6499,0.1,17547.3,2232.41
+ORD-00470,2025-04-20,CUST-0008,USB-C Hub,Electronics,East,Patna,5,1899,0.0,9495.0,2611.12
+ORD-00996,2025-04-21,CUST-0275,Office Chair,Furniture,North,Lucknow,2,6499,0.15,11048.3,1138.95
+ORD-00390,2025-04-21,CUST-0278,Printer Paper,Office Supplies,West,Ahmedabad,5,399,0.0,1995.0,448.88
+ORD-00650,2025-04-21,CUST-0142,Study Desk,Furniture,North,Jaipur,5,8999,0.15,38245.75,3177.77
+ORD-00209,2025-04-22,CUST-0006,Keyboard,Electronics,South,Bengaluru,4,1299,0.1,4676.4,828.76
+ORD-00479,2025-04-22,CUST-0179,Study Desk,Furniture,East,Guwahati,2,8999,0.0,17998.0,2789.69
+ORD-00404,2025-04-22,CUST-0113,Study Desk,Furniture,North,Jaipur,1,8999,0.1,8099.1,868.4
+ORD-00457,2025-04-23,CUST-0062,Office Chair,Furniture,West,Surat,2,6499,0.1,11698.2,1488.27
+ORD-00535,2025-04-23,CUST-0175,Bookshelf,Furniture,North,Jaipur,2,4999,0.05,9498.1,1625.92
+ORD-00355,2025-04-23,CUST-0192,Office Chair,Furniture,East,Kolkata,4,6499,0.15,22096.6,2277.9
+ORD-00024,2025-04-23,CUST-0189,Notebook Pack,Office Supplies,East,Bhubaneswar,4,299,0.05,1136.2,342.21
+ORD-00178,2025-04-23,CUST-0206,Keyboard,Electronics,North,Chandigarh,1,1299,0.0,1299.0,292.27
+ORD-00231,2025-04-23,CUST-0161,Headphones,Electronics,East,Guwahati,1,2499,0.0,2499.0,487.3
+ORD-01007,2025-04-23,CUST-0185,USB-C Hub,Electronics,East,Kolkata,1,1899,0.1,1709.1,388.35
+ORD-01185,2025-04-24,CUST-0169,Bookshelf,Furniture,West,Mumbai,4,4999,0.05,18996.2,3251.85
+ORD-01146,2025-04-24,CUST-0090,Desk Organizer,Office Supplies,South,Kochi,2,699,0.2,1118.4,233.47
+ORD-01164,2025-04-25,CUST-0124,Pen Set,Office Supplies,North,Jaipur,2,149,0.05,283.1,99.42
+ORD-00075,2025-04-25,CUST-0048,Desk Organizer,Office Supplies,North,Chandigarh,2,699,0.05,1328.1,373.44
+ORD-00557,2025-04-25,CUST-0065,Monitor,Electronics,West,Mumbai,4,10999,0.05,41796.2,5483.0
+ORD-01038,2025-04-25,CUST-0172,Pen Set,Office Supplies,West,Ahmedabad,3,149,0.15,379.95,115.16
+ORD-01192,2025-04-25,CUST-0093,Table Lamp,Furniture,South,Bengaluru,1,1499,0.1,1349.1,333.53
+ORD-00821,2025-04-25,CUST-0273,Headphones,Electronics,South,Chennai,3,2499,0.05,7122.15,1219.2
+ORD-00080,2025-04-26,CUST-0133,Bookshelf,Furniture,East,Bhubaneswar,2,4999,0.05,9498.1,1625.92
+ORD-00031,2025-04-26,CUST-0033,Notebook Pack,Office Supplies,East,Patna,1,299,0.1,269.1,74.6
+ORD-00613,2025-04-27,CUST-0113,Table Lamp,Furniture,North,Delhi,2,1499,0.15,2548.3,568.5
+ORD-00144,2025-04-27,CUST-0287,Wireless Mouse,Electronics,South,Chennai,1,599,0.1,539.1,111.71
+ORD-01043,2025-04-27,CUST-0122,Table Lamp,Furniture,West,Mumbai,5,1499,0.2,5996.0,1191.7
+ORD-00662,2025-04-28,CUST-0022,USB-C Hub,Electronics,West,Mumbai,1,1899,0.1,1709.1,388.35
+ORD-01155,2025-04-28,CUST-0068,Notebook Pack,Office Supplies,East,Guwahati,2,299,0.1,538.2,149.2
+ORD-01005,2025-04-28,CUST-0191,Pen Set,Office Supplies,East,Patna,5,149,0.1,670.5,219.4
+ORD-00804,2025-04-29,CUST-0217,Bookshelf,Furniture,North,Chandigarh,3,4999,0.0,14997.0,2924.41
+ORD-00511,2025-04-29,CUST-0086,Office Chair,Furniture,North,Delhi,4,6499,0.2,20796.8,1637.75
+ORD-00654,2025-04-29,CUST-0043,Headphones,Electronics,West,Surat,4,2499,0.2,7996.8,789.68
+ORD-00386,2025-04-29,CUST-0132,Wireless Mouse,Electronics,North,Jaipur,4,599,0.0,2396.0,610.98
+ORD-00125,2025-04-29,CUST-0294,Stapler,Office Supplies,North,Chandigarh,5,199,0.05,945.25,313.05
+ORD-00670,2025-05-01,CUST-0118,Stapler,Office Supplies,East,Kolkata,3,199,0.15,507.45,143.65
+ORD-00207,2025-05-01,CUST-0126,Office Chair,Furniture,South,Hyderabad,3,6499,0.2,15597.6,1228.31
+ORD-00891,2025-05-01,CUST-0159,Printer Paper,Office Supplies,East,Patna,4,399,0.1,1436.4,254.56
+ORD-00107,2025-05-02,CUST-0004,Notebook Pack,Office Supplies,South,Kochi,2,299,0.1,538.2,149.2
+ORD-00439,2025-05-03,CUST-0180,Keyboard,Electronics,South,Chennai,4,1299,0.0,5196.0,1169.1
+ORD-00366,2025-05-03,CUST-0149,Headphones,Electronics,South,Hyderabad,3,2499,0.2,5997.6,592.26
+ORD-00405,2025-05-03,CUST-0137,Desk Organizer,Office Supplies,West,Pune,1,699,0.0,699.0,213.2
+ORD-00017,2025-05-03,CUST-0007,Printer Paper,Office Supplies,North,Jaipur,5,399,0.0,1995.0,448.88
+ORD-00823,2025-05-04,CUST-0231,Monitor,Electronics,East,Guwahati,4,10999,0.1,39596.4,4245.61
+ORD-01162,2025-05-04,CUST-0227,Stapler,Office Supplies,South,Kochi,5,199,0.0,995.0,353.23
+ORD-00489,2025-05-04,CUST-0145,Printer Paper,Office Supplies,West,Mumbai,2,399,0.1,718.2,127.28
+ORD-00020,2025-05-04,CUST-0289,Bookshelf,Furniture,North,Chandigarh,1,4999,0.0,4999.0,974.8
+ORD-01037,2025-05-05,CUST-0017,Printer Paper,Office Supplies,North,Lucknow,1,399,0.1,359.1,63.64
+ORD-01028,2025-05-05,CUST-0253,Bookshelf,Furniture,West,Mumbai,1,4999,0.0,4999.0,974.8
+ORD-01101,2025-05-05,CUST-0263,Monitor,Electronics,South,Hyderabad,1,10999,0.1,9899.1,1061.4
+ORD-00586,2025-05-05,CUST-0210,Study Desk,Furniture,South,Chennai,3,8999,0.05,25647.15,3364.5
+ORD-00373,2025-05-05,CUST-0192,Table Lamp,Furniture,East,Kolkata,5,1499,0.1,6745.5,1667.64
+ORD-00444,2025-05-06,CUST-0095,USB-C Hub,Electronics,West,Ahmedabad,5,1899,0.2,7596.0,1357.78
+ORD-00911,2025-05-06,CUST-0076,Headphones,Electronics,South,Bengaluru,1,2499,0.1,2249.1,331.12
+ORD-01065,2025-05-07,CUST-0044,Monitor,Electronics,South,Kochi,5,10999,0.0,54995.0,8524.23
+ORD-00646,2025-05-07,CUST-0146,Stapler,Office Supplies,South,Chennai,1,199,0.1,179.1,55.02
+ORD-00014,2025-05-07,CUST-0132,Office Chair,Furniture,South,Kochi,2,6499,0.0,12998.0,2274.65
+ORD-00944,2025-05-07,CUST-0045,USB-C Hub,Electronics,North,Jaipur,3,1899,0.1,5127.3,1165.04
+ORD-00423,2025-05-07,CUST-0005,Table Lamp,Furniture,South,Kochi,1,1499,0.1,1349.1,333.53
+ORD-00685,2025-05-07,CUST-0047,Printer Paper,Office Supplies,North,Jaipur,4,399,0.05,1516.2,305.04
+ORD-00888,2025-05-07,CUST-0091,Table Lamp,Furniture,East,Bhubaneswar,2,1499,0.0,2998.0,884.41
+ORD-00474,2025-05-08,CUST-0157,Desk Organizer,Office Supplies,North,Chandigarh,3,699,0.05,1992.15,560.16
+ORD-00929,2025-05-08,CUST-0082,Wireless Mouse,Electronics,West,Mumbai,3,599,0.0,1797.0,458.24
+ORD-00738,2025-05-08,CUST-0115,Headphones,Electronics,North,Jaipur,5,2499,0.1,11245.5,1655.59
+ORD-00517,2025-05-09,CUST-0002,Keyboard,Electronics,East,Bhubaneswar,1,1299,0.0,1299.0,292.27
+ORD-00098,2025-05-09,CUST-0170,Study Desk,Furniture,North,Delhi,2,8999,0.1,16198.2,1736.81
+ORD-00885,2025-05-10,CUST-0178,Monitor,Electronics,West,Ahmedabad,4,10999,0.0,43996.0,6819.38
+ORD-01177,2025-05-11,CUST-0148,Keyboard,Electronics,West,Pune,4,1299,0.2,4156.8,535.19
+ORD-00757,2025-05-11,CUST-0158,Headphones,Electronics,East,Bhubaneswar,5,2499,0.0,12495.0,2436.53
+ORD-01103,2025-05-11,CUST-0034,Monitor,Electronics,South,Bengaluru,3,10999,0.05,31347.15,4112.25
+ORD-01200,2025-05-11,CUST-0246,Monitor,Electronics,South,Kochi,5,10999,0.15,46745.75,3884.02
+ORD-00170,2025-05-12,CUST-0289,Desk Organizer,Office Supplies,North,Delhi,4,699,0.0,2796.0,852.78
+ORD-00276,2025-05-12,CUST-0129,Headphones,Electronics,South,Kochi,5,2499,0.1,11245.5,1655.59
+ORD-01027,2025-05-12,CUST-0263,USB-C Hub,Electronics,West,Ahmedabad,2,1899,0.05,3608.1,906.3
+ORD-00986,2025-05-13,CUST-0087,USB-C Hub,Electronics,West,Ahmedabad,3,1899,0.1,5127.3,1165.04
+ORD-01149,2025-05-13,CUST-0205,Notebook Pack,Office Supplies,South,Kochi,4,299,0.15,1016.6,257.29
+ORD-00675,2025-05-13,CUST-0153,Printer Paper,Office Supplies,West,Surat,5,399,0.0,1995.0,448.88
+ORD-00921,2025-05-14,CUST-0210,Study Desk,Furniture,East,Patna,5,8999,0.1,40495.5,4342.02
+ORD-01131,2025-05-15,CUST-0087,Notebook Pack,Office Supplies,North,Lucknow,3,299,0.05,852.15,256.65
+ORD-01087,2025-05-15,CUST-0220,Wireless Mouse,Electronics,North,Chandigarh,4,599,0.05,2276.2,526.22
+ORD-00699,2025-05-15,CUST-0039,Table Lamp,Furniture,West,Surat,5,1499,0.1,6745.5,1667.64
+ORD-00912,2025-05-15,CUST-0212,Stapler,Office Supplies,East,Patna,4,199,0.0,796.0,282.58
+ORD-00228,2025-05-15,CUST-0202,Keyboard,Electronics,North,Delhi,3,1299,0.0,3897.0,876.83
+ORD-00091,2025-05-16,CUST-0028,Keyboard,Electronics,East,Bhubaneswar,4,1299,0.0,5196.0,1169.1
+ORD-00674,2025-05-16,CUST-0133,Headphones,Electronics,South,Chennai,4,2499,0.0,9996.0,1949.22
+ORD-01041,2025-05-16,CUST-0052,Monitor,Electronics,West,Surat,1,10999,0.05,10449.05,1370.75
+ORD-00515,2025-05-16,CUST-0164,Monitor,Electronics,South,Hyderabad,4,10999,0.15,37396.6,3107.22
+ORD-00695,2025-05-17,CUST-0166,Bookshelf,Furniture,North,Chandigarh,3,4999,0.05,14247.15,2438.89
+ORD-00528,2025-05-18,CUST-0060,Office Chair,Furniture,North,Lucknow,2,6499,0.15,11048.3,1138.95
+ORD-00038,2025-05-19,CUST-0079,Printer Paper,Office Supplies,North,Chandigarh,1,399,0.1,359.1,63.64
+ORD-00257,2025-05-19,CUST-0279,Monitor,Electronics,North,Jaipur,3,10999,0.1,29697.3,3184.21
+ORD-00116,2025-05-21,CUST-0103,Study Desk,Furniture,East,Bhubaneswar,3,8999,0.15,22947.45,1906.66
+ORD-01136,2025-05-21,CUST-0112,Printer Paper,Office Supplies,West,Surat,3,399,0.15,1017.45,155.76
+ORD-00278,2025-05-22,CUST-0014,Keyboard,Electronics,South,Hyderabad,2,1299,0.2,2078.4,267.59
+ORD-00718,2025-05-22,CUST-0088,Stapler,Office Supplies,North,Delhi,3,199,0.15,507.45,143.65
+ORD-00163,2025-05-22,CUST-0039,USB-C Hub,Electronics,West,Ahmedabad,5,1899,0.1,8545.5,1941.73
+ORD-00534,2025-05-23,CUST-0141,Pen Set,Office Supplies,East,Patna,1,149,0.1,134.1,43.88
+ORD-00609,2025-05-23,CUST-0225,Keyboard,Electronics,East,Patna,4,1299,0.05,4936.2,993.09
+ORD-00306,2025-05-23,CUST-0083,Monitor,Electronics,North,Chandigarh,3,10999,0.0,32997.0,5114.53
+ORD-00081,2025-05-23,CUST-0300,Headphones,Electronics,East,Patna,4,2499,0.0,9996.0,1949.22
+ORD-00480,2025-05-23,CUST-0167,Stapler,Office Supplies,North,Jaipur,1,199,0.0,199.0,70.65
+ORD-00481,2025-05-23,CUST-0242,Office Chair,Furniture,East,Patna,4,6499,0.15,22096.6,2277.9
+ORD-00733,2025-05-24,CUST-0073,USB-C Hub,Electronics,East,Bhubaneswar,5,1899,0.1,8545.5,1941.73
+ORD-00333,2025-05-24,CUST-0276,Monitor,Electronics,South,Chennai,4,10999,0.0,43996.0,6819.38
+ORD-00582,2025-05-24,CUST-0171,Study Desk,Furniture,East,Patna,1,8999,0.2,7199.2,422.95
+ORD-00206,2025-05-24,CUST-0121,Keyboard,Electronics,East,Patna,2,1299,0.1,2338.2,414.38
+ORD-00631,2025-05-25,CUST-0056,Wireless Mouse,Electronics,South,Chennai,2,599,0.0,1198.0,305.49
+ORD-00717,2025-05-26,CUST-0275,Desk Organizer,Office Supplies,East,Patna,3,699,0.1,1887.3,485.46
+ORD-00897,2025-05-26,CUST-0260,Table Lamp,Furniture,South,Kochi,4,1499,0.0,5996.0,1768.82
+ORD-00957,2025-05-26,CUST-0291,Monitor,Electronics,East,Guwahati,5,10999,0.1,49495.5,5307.02
+ORD-00472,2025-05-27,CUST-0046,Stapler,Office Supplies,North,Delhi,3,199,0.2,477.6,123.58
+ORD-00725,2025-05-28,CUST-0201,Office Chair,Furniture,North,Lucknow,3,6499,0.15,16572.45,1708.42
+ORD-01067,2025-05-28,CUST-0108,Pen Set,Office Supplies,South,Chennai,2,149,0.0,298.0,111.75
+ORD-00919,2025-05-28,CUST-0064,USB-C Hub,Electronics,North,Chandigarh,4,1899,0.0,7596.0,2088.9
+ORD-01024,2025-05-29,CUST-0152,Notebook Pack,Office Supplies,South,Kochi,4,299,0.0,1196.0,388.7
+ORD-00962,2025-05-29,CUST-0174,Notebook Pack,Office Supplies,North,Lucknow,3,299,0.05,852.15,256.65
+ORD-00251,2025-05-29,CUST-0037,Monitor,Electronics,West,Mumbai,1,10999,0.1,9899.1,1061.4
+ORD-00348,2025-05-30,CUST-0234,Desk Organizer,Office Supplies,East,Bhubaneswar,2,699,0.1,1258.2,323.64
+ORD-00905,2025-05-30,CUST-0221,Headphones,Electronics,North,Chandigarh,4,2499,0.15,8496.6,1045.83
+ORD-00846,2025-05-30,CUST-0077,Desk Organizer,Office Supplies,South,Kochi,1,699,0.1,629.1,161.82
+ORD-01107,2025-05-31,CUST-0252,Headphones,Electronics,East,Guwahati,3,2499,0.05,7122.15,1219.2
+ORD-01055,2025-05-31,CUST-0115,Desk Organizer,Office Supplies,East,Patna,5,699,0.15,2970.75,692.45
+ORD-00172,2025-05-31,CUST-0156,Table Lamp,Furniture,South,Hyderabad,5,1499,0.05,7120.25,1930.9
+ORD-00275,2025-06-01,CUST-0293,Headphones,Electronics,East,Kolkata,3,2499,0.15,6372.45,784.37
+ORD-00399,2025-06-01,CUST-0143,Monitor,Electronics,South,Kochi,2,10999,0.0,21998.0,3409.69
+ORD-00573,2025-06-01,CUST-0125,Bookshelf,Furniture,South,Bengaluru,2,4999,0.0,9998.0,1949.61
+ORD-00131,2025-06-01,CUST-0256,Bookshelf,Furniture,East,Patna,4,4999,0.0,19996.0,3899.22
+ORD-00700,2025-06-01,CUST-0257,Pen Set,Office Supplies,South,Hyderabad,4,149,0.05,566.2,198.84
+ORD-00108,2025-06-02,CUST-0251,Monitor,Electronics,South,Chennai,1,10999,0.0,10999.0,1704.84
+ORD-00093,2025-06-02,CUST-0174,Study Desk,Furniture,West,Mumbai,5,8999,0.05,42745.25,5607.5
+ORD-01009,2025-06-03,CUST-0074,Keyboard,Electronics,West,Mumbai,2,1299,0.05,2468.1,496.54
+ORD-00321,2025-06-03,CUST-0071,Desk Organizer,Office Supplies,West,Pune,4,699,0.15,2376.6,553.96
+ORD-00778,2025-06-03,CUST-0077,Headphones,Electronics,East,Kolkata,5,2499,0.2,9996.0,987.11
+ORD-00466,2025-06-03,CUST-0150,Pen Set,Office Supplies,West,Mumbai,1,149,0.1,134.1,43.88
+ORD-00825,2025-06-04,CUST-0299,Printer Paper,Office Supplies,East,Patna,5,399,0.05,1895.25,381.29
+ORD-00812,2025-06-04,CUST-0241,Notebook Pack,Office Supplies,North,Jaipur,5,299,0.05,1420.25,427.76
+ORD-00896,2025-06-04,CUST-0292,Pen Set,Office Supplies,South,Kochi,2,149,0.15,253.3,76.77
+ORD-00544,2025-06-04,CUST-0167,Keyboard,Electronics,South,Hyderabad,5,1299,0.0,6495.0,1461.38
+ORD-00106,2025-06-04,CUST-0094,Headphones,Electronics,East,Kolkata,5,2499,0.15,10620.75,1307.29
+ORD-00337,2025-06-04,CUST-0036,Notebook Pack,Office Supplies,East,Kolkata,4,299,0.0,1196.0,388.7
+ORD-00803,2025-06-05,CUST-0170,USB-C Hub,Electronics,West,Mumbai,5,1899,0.0,9495.0,2611.12
+ORD-00367,2025-06-05,CUST-0066,Table Lamp,Furniture,East,Patna,3,1499,0.0,4497.0,1326.62
+ORD-01171,2025-06-05,CUST-0014,Stapler,Office Supplies,East,Kolkata,1,199,0.0,199.0,70.65
+ORD-00545,2025-06-06,CUST-0051,Table Lamp,Furniture,East,Bhubaneswar,2,1499,0.05,2848.1,772.36
+ORD-00939,2025-06-06,CUST-0120,Bookshelf,Furniture,West,Pune,4,4999,0.15,16996.6,2092.08
+ORD-00686,2025-06-06,CUST-0247,Bookshelf,Furniture,West,Surat,5,4999,0.2,19996.0,1974.61
+ORD-01045,2025-06-06,CUST-0145,Keyboard,Electronics,South,Kochi,1,1299,0.0,1299.0,292.27
+ORD-00712,2025-06-06,CUST-0155,Stapler,Office Supplies,North,Lucknow,5,199,0.1,895.5,275.12
+ORD-00730,2025-06-07,CUST-0258,Pen Set,Office Supplies,North,Delhi,2,149,0.0,298.0,111.75
+ORD-00300,2025-06-08,CUST-0199,Office Chair,Furniture,East,Guwahati,4,6499,0.05,24696.2,3733.68
+ORD-00772,2025-06-08,CUST-0025,Keyboard,Electronics,East,Kolkata,3,1299,0.1,3507.3,621.57
+ORD-00362,2025-06-08,CUST-0027,Desk Organizer,Office Supplies,West,Surat,3,699,0.05,1992.15,560.16
+ORD-00104,2025-06-09,CUST-0249,Monitor,Electronics,North,Delhi,4,10999,0.0,43996.0,6819.38
+ORD-00933,2025-06-09,CUST-0174,Stapler,Office Supplies,East,Bhubaneswar,3,199,0.0,597.0,211.94
+ORD-00915,2025-06-09,CUST-0255,Wireless Mouse,Electronics,East,Guwahati,1,599,0.05,569.05,131.56
+ORD-00604,2025-06-09,CUST-0071,Desk Organizer,Office Supplies,East,Kolkata,1,699,0.05,664.05,186.72
+ORD-00663,2025-06-09,CUST-0088,Stapler,Office Supplies,East,Patna,3,199,0.1,537.3,165.07
+ORD-01123,2025-06-09,CUST-0189,Headphones,Electronics,South,Kochi,2,2499,0.1,4498.2,662.23
+ORD-00768,2025-06-09,CUST-0085,Bookshelf,Furniture,South,Kochi,1,4999,0.15,4249.15,523.02
+ORD-00721,2025-06-10,CUST-0281,Keyboard,Electronics,West,Mumbai,3,1299,0.0,3897.0,876.83
+ORD-00729,2025-06-10,CUST-0016,Monitor,Electronics,West,Mumbai,5,10999,0.0,54995.0,8524.23
+ORD-00943,2025-06-10,CUST-0171,Printer Paper,Office Supplies,West,Pune,4,399,0.2,1276.8,164.39
+ORD-00870,2025-06-11,CUST-0250,Stapler,Office Supplies,East,Bhubaneswar,5,199,0.1,895.5,275.12
+ORD-00453,2025-06-11,CUST-0169,Printer Paper,Office Supplies,East,Guwahati,3,399,0.0,1197.0,269.32
+ORD-00349,2025-06-11,CUST-0214,Monitor,Electronics,West,Pune,1,10999,0.2,8799.2,516.95
+ORD-00771,2025-06-11,CUST-0182,Bookshelf,Furniture,North,Chandigarh,2,4999,0.05,9498.1,1625.92
+ORD-01051,2025-06-12,CUST-0226,Bookshelf,Furniture,West,Pune,2,4999,0.15,8498.3,1046.04
+ORD-00563,2025-06-12,CUST-0009,Keyboard,Electronics,East,Kolkata,4,1299,0.0,5196.0,1169.1
+ORD-00703,2025-06-12,CUST-0276,Desk Organizer,Office Supplies,South,Bengaluru,5,699,0.2,2796.0,583.66
+ORD-00069,2025-06-12,CUST-0235,USB-C Hub,Electronics,East,Kolkata,5,1899,0.1,8545.5,1941.73
+ORD-00173,2025-06-12,CUST-0032,Desk Organizer,Office Supplies,South,Hyderabad,4,699,0.1,2516.4,647.27
+ORD-00087,2025-06-12,CUST-0013,Notebook Pack,Office Supplies,East,Guwahati,4,299,0.15,1016.6,257.29
+ORD-00132,2025-06-13,CUST-0120,Monitor,Electronics,East,Guwahati,2,10999,0.1,19798.2,2122.81
+ORD-00022,2025-06-13,CUST-0271,Desk Organizer,Office Supplies,North,Lucknow,2,699,0.0,1398.0,426.39
+ORD-00667,2025-06-14,CUST-0111,Printer Paper,Office Supplies,North,Lucknow,1,399,0.0,399.0,89.78
+ORD-00932,2025-06-14,CUST-0047,Printer Paper,Office Supplies,East,Kolkata,1,399,0.1,359.1,63.64
+ORD-00192,2025-06-14,CUST-0159,Notebook Pack,Office Supplies,East,Bhubaneswar,3,299,0.05,852.15,256.65
+ORD-00476,2025-06-14,CUST-0209,USB-C Hub,Electronics,East,Kolkata,4,1899,0.0,7596.0,2088.9
+ORD-01165,2025-06-15,CUST-0110,Pen Set,Office Supplies,East,Bhubaneswar,4,149,0.0,596.0,223.5
+ORD-00558,2025-06-15,CUST-0116,Pen Set,Office Supplies,South,Hyderabad,3,149,0.2,357.6,99.68
+ORD-00982,2025-06-16,CUST-0066,Study Desk,Furniture,East,Patna,1,8999,0.1,8099.1,868.4
+ORD-00418,2025-06-17,CUST-0140,Headphones,Electronics,North,Jaipur,2,2499,0.1,4498.2,662.23
+ORD-00910,2025-06-18,CUST-0086,Monitor,Electronics,East,Kolkata,2,10999,0.1,19798.2,2122.81
+ORD-01099,2025-06-18,CUST-0259,USB-C Hub,Electronics,South,Kochi,2,1899,0.05,3608.1,906.3
+ORD-00219,2025-06-18,CUST-0176,Monitor,Electronics,South,Hyderabad,2,10999,0.0,21998.0,3409.69
+ORD-00094,2025-06-18,CUST-0153,Pen Set,Office Supplies,South,Chennai,5,149,0.0,745.0,279.38
+ORD-00241,2025-06-19,CUST-0008,Bookshelf,Furniture,South,Chennai,5,4999,0.1,22495.5,3311.84
+ORD-00702,2025-06-19,CUST-0084,Bookshelf,Furniture,North,Jaipur,5,4999,0.1,22495.5,3311.84
+ORD-00150,2025-06-20,CUST-0253,Office Chair,Furniture,North,Jaipur,3,6499,0.15,16572.45,1708.42
+ORD-00817,2025-06-20,CUST-0163,Keyboard,Electronics,North,Jaipur,4,1299,0.05,4936.2,993.09
+ORD-00632,2025-06-20,CUST-0094,Wireless Mouse,Electronics,West,Surat,1,599,0.2,479.2,76.07
+ORD-00314,2025-06-21,CUST-0149,Table Lamp,Furniture,West,Ahmedabad,1,1499,0.05,1424.05,386.18
+ORD-00755,2025-06-21,CUST-0238,Pen Set,Office Supplies,East,Bhubaneswar,4,149,0.15,506.6,153.54
+ORD-00798,2025-06-21,CUST-0299,Headphones,Electronics,West,Mumbai,3,2499,0.2,5997.6,592.26
+ORD-00255,2025-06-21,CUST-0039,Stapler,Office Supplies,North,Chandigarh,2,199,0.1,358.2,110.05
+ORD-00577,2025-06-21,CUST-0165,Wireless Mouse,Electronics,West,Pune,3,599,0.05,1707.15,394.67
+ORD-00727,2025-06-22,CUST-0177,Monitor,Electronics,East,Patna,3,10999,0.05,31347.15,4112.25
+ORD-00961,2025-06-22,CUST-0245,Office Chair,Furniture,West,Pune,1,6499,0.05,6174.05,933.42
+ORD-00683,2025-06-22,CUST-0090,Stapler,Office Supplies,West,Ahmedabad,3,199,0.0,597.0,211.94
+ORD-00011,2025-06-22,CUST-0212,USB-C Hub,Electronics,West,Surat,4,1899,0.1,6836.4,1553.38
+ORD-00179,2025-06-22,CUST-0227,Wireless Mouse,Electronics,East,Patna,2,599,0.0,1198.0,305.49
+ORD-00052,2025-06-23,CUST-0179,Stapler,Office Supplies,East,Guwahati,1,199,0.0,199.0,70.65
+ORD-00246,2025-06-23,CUST-0018,Notebook Pack,Office Supplies,North,Chandigarh,3,299,0.2,717.6,164.15
+ORD-00224,2025-06-23,CUST-0266,USB-C Hub,Electronics,West,Ahmedabad,4,1899,0.0,7596.0,2088.9
+ORD-00071,2025-06-23,CUST-0140,Office Chair,Furniture,West,Mumbai,3,6499,0.1,17547.3,2232.41
+ORD-00635,2025-06-24,CUST-0204,Desk Organizer,Office Supplies,South,Bengaluru,4,699,0.2,2236.8,466.93
+ORD-00680,2025-06-24,CUST-0195,Stapler,Office Supplies,West,Ahmedabad,1,199,0.1,179.1,55.02
+ORD-00277,2025-06-24,CUST-0288,Study Desk,Furniture,West,Mumbai,3,8999,0.2,21597.6,1268.86
+ORD-00180,2025-06-24,CUST-0157,Pen Set,Office Supplies,North,Jaipur,2,149,0.0,298.0,111.75
+ORD-01073,2025-06-25,CUST-0266,Office Chair,Furniture,West,Surat,1,6499,0.2,5199.2,409.44
+ORD-00581,2025-06-26,CUST-0114,Study Desk,Furniture,East,Bhubaneswar,1,8999,0.2,7199.2,422.95
+ORD-00987,2025-06-26,CUST-0190,Stapler,Office Supplies,South,Hyderabad,4,199,0.0,796.0,282.58
+ORD-00538,2025-06-27,CUST-0154,Pen Set,Office Supplies,West,Ahmedabad,4,149,0.0,596.0,223.5
+ORD-00822,2025-06-28,CUST-0156,USB-C Hub,Electronics,South,Bengaluru,4,1899,0.2,6076.8,1086.23
+ORD-00073,2025-06-28,CUST-0198,Stapler,Office Supplies,West,Surat,1,199,0.0,199.0,70.65
+ORD-00837,2025-06-28,CUST-0276,Desk Organizer,Office Supplies,West,Surat,4,699,0.05,2656.2,746.88
+ORD-00521,2025-06-29,CUST-0010,Table Lamp,Furniture,South,Hyderabad,3,1499,0.15,3822.45,852.74
+ORD-00871,2025-06-29,CUST-0268,USB-C Hub,Electronics,West,Ahmedabad,4,1899,0.0,7596.0,2088.9
+ORD-01163,2025-06-29,CUST-0158,Table Lamp,Furniture,West,Ahmedabad,4,1499,0.1,5396.4,1334.11
+ORD-00274,2025-06-29,CUST-0104,Table Lamp,Furniture,West,Pune,1,1499,0.0,1499.0,442.2
+ORD-00371,2025-06-29,CUST-0255,Keyboard,Electronics,East,Guwahati,3,1299,0.15,3312.45,507.1
+ORD-00152,2025-06-30,CUST-0139,Monitor,Electronics,North,Delhi,5,10999,0.0,54995.0,8524.23
+ORD-00155,2025-06-30,CUST-0002,Wireless Mouse,Electronics,South,Bengaluru,3,599,0.15,1527.45,279.66
+ORD-00539,2025-07-01,CUST-0263,Pen Set,Office Supplies,North,Delhi,5,149,0.2,596.0,166.13
+ORD-01082,2025-07-03,CUST-0246,Printer Paper,Office Supplies,North,Delhi,1,399,0.0,399.0,89.78
+ORD-00907,2025-07-03,CUST-0151,Desk Organizer,Office Supplies,North,Lucknow,4,699,0.05,2656.2,746.88
+ORD-01058,2025-07-03,CUST-0183,Wireless Mouse,Electronics,East,Patna,3,599,0.05,1707.15,394.67
+ORD-00959,2025-07-03,CUST-0095,Table Lamp,Furniture,West,Surat,2,1499,0.2,2398.4,476.68
+ORD-01120,2025-07-03,CUST-0143,Bookshelf,Furniture,East,Kolkata,3,4999,0.1,13497.3,1987.1
+ORD-00138,2025-07-03,CUST-0163,Headphones,Electronics,North,Chandigarh,5,2499,0.15,10620.75,1307.29
+ORD-00612,2025-07-04,CUST-0081,Study Desk,Furniture,South,Bengaluru,1,8999,0.0,8999.0,1394.84
+ORD-00063,2025-07-04,CUST-0110,Office Chair,Furniture,North,Lucknow,2,6499,0.05,12348.1,1866.84
+ORD-00728,2025-07-04,CUST-0161,Headphones,Electronics,East,Kolkata,2,2499,0.15,4248.3,522.92
+ORD-00313,2025-07-04,CUST-0238,Printer Paper,Office Supplies,South,Chennai,5,399,0.2,1596.0,205.48
+ORD-00925,2025-07-04,CUST-0033,Monitor,Electronics,East,Guwahati,4,10999,0.15,37396.6,3107.22
+ORD-00016,2025-07-04,CUST-0236,USB-C Hub,Electronics,North,Jaipur,4,1899,0.1,6836.4,1553.38
+ORD-01012,2025-07-05,CUST-0017,Wireless Mouse,Electronics,South,Hyderabad,3,599,0.1,1617.3,335.14
+ORD-01026,2025-07-05,CUST-0293,Monitor,Electronics,North,Delhi,2,10999,0.2,17598.4,1033.91
+ORD-00417,2025-07-05,CUST-0203,Bookshelf,Furniture,West,Ahmedabad,4,4999,0.0,19996.0,3899.22
+ORD-00829,2025-07-06,CUST-0143,Office Chair,Furniture,South,Kochi,1,6499,0.05,6174.05,933.42
+ORD-00296,2025-07-07,CUST-0144,Table Lamp,Furniture,North,Jaipur,5,1499,0.05,7120.25,1930.9
+ORD-00820,2025-07-07,CUST-0272,Keyboard,Electronics,South,Bengaluru,4,1299,0.1,4676.4,828.76
+ORD-00411,2025-07-07,CUST-0098,Notebook Pack,Office Supplies,West,Mumbai,3,299,0.15,762.45,192.97
+ORD-00647,2025-07-07,CUST-0050,Office Chair,Furniture,West,Mumbai,3,6499,0.0,19497.0,3411.97
+ORD-00826,2025-07-08,CUST-0273,Wireless Mouse,Electronics,South,Kochi,3,599,0.15,1527.45,279.66
+ORD-00546,2025-07-08,CUST-0268,Stapler,Office Supplies,East,Bhubaneswar,1,199,0.05,189.05,62.61
+ORD-00055,2025-07-08,CUST-0205,Wireless Mouse,Electronics,West,Surat,1,599,0.1,539.1,111.71
+ORD-00677,2025-07-08,CUST-0061,Wireless Mouse,Electronics,East,Bhubaneswar,5,599,0.1,2695.5,558.57
+ORD-01006,2025-07-08,CUST-0008,Table Lamp,Furniture,North,Jaipur,2,1499,0.1,2698.2,667.05
+ORD-01157,2025-07-09,CUST-0074,Stapler,Office Supplies,East,Kolkata,3,199,0.15,507.45,143.65
+ORD-01052,2025-07-09,CUST-0059,Stapler,Office Supplies,South,Chennai,3,199,0.05,567.15,187.83
+ORD-00859,2025-07-09,CUST-0243,Keyboard,Electronics,West,Mumbai,1,1299,0.1,1169.1,207.19
+ORD-01166,2025-07-09,CUST-0238,Headphones,Electronics,South,Hyderabad,2,2499,0.1,4498.2,662.23
+ORD-00381,2025-07-09,CUST-0182,Table Lamp,Furniture,West,Mumbai,5,1499,0.0,7495.0,2211.03
+ORD-00185,2025-07-10,CUST-0050,USB-C Hub,Electronics,East,Patna,4,1899,0.1,6836.4,1553.38
+ORD-00824,2025-07-10,CUST-0146,USB-C Hub,Electronics,South,Chennai,5,1899,0.05,9020.25,2265.74
+ORD-00045,2025-07-10,CUST-0086,Wireless Mouse,Electronics,North,Lucknow,4,599,0.2,1916.8,304.29
+ORD-00566,2025-07-10,CUST-0221,Notebook Pack,Office Supplies,North,Delhi,2,299,0.15,508.3,128.64
+ORD-00068,2025-07-10,CUST-0281,Bookshelf,Furniture,West,Ahmedabad,4,4999,0.0,19996.0,3899.22
+ORD-00186,2025-07-11,CUST-0221,Headphones,Electronics,West,Mumbai,5,2499,0.1,11245.5,1655.59
+ORD-00203,2025-07-11,CUST-0103,Desk Organizer,Office Supplies,South,Bengaluru,3,699,0.2,1677.6,350.2
+ORD-00455,2025-07-11,CUST-0261,Table Lamp,Furniture,South,Chennai,4,1499,0.15,5096.6,1136.99
+ORD-00641,2025-07-11,CUST-0279,Pen Set,Office Supplies,East,Guwahati,5,149,0.1,670.5,219.4
+ORD-00249,2025-07-11,CUST-0108,Notebook Pack,Office Supplies,North,Jaipur,2,299,0.0,598.0,194.35
+ORD-00347,2025-07-11,CUST-0260,Stapler,Office Supplies,West,Pune,4,199,0.0,796.0,282.58
+ORD-00603,2025-07-12,CUST-0084,Keyboard,Electronics,East,Bhubaneswar,4,1299,0.1,4676.4,828.76
+ORD-00556,2025-07-12,CUST-0041,Monitor,Electronics,South,Hyderabad,3,10999,0.0,32997.0,5114.53
+ORD-00354,2025-07-12,CUST-0249,Wireless Mouse,Electronics,East,Kolkata,1,599,0.0,599.0,152.75
+ORD-00422,2025-07-12,CUST-0049,Printer Paper,Office Supplies,South,Hyderabad,5,399,0.05,1895.25,381.29
+ORD-00849,2025-07-12,CUST-0216,Stapler,Office Supplies,East,Kolkata,3,199,0.1,537.3,165.07
+ORD-00988,2025-07-12,CUST-0057,Monitor,Electronics,North,Chandigarh,4,10999,0.1,39596.4,4245.61
+ORD-01191,2025-07-12,CUST-0130,Keyboard,Electronics,North,Lucknow,3,1299,0.0,3897.0,876.83
+ORD-00261,2025-07-12,CUST-0249,Monitor,Electronics,South,Kochi,4,10999,0.0,43996.0,6819.38
+ORD-00254,2025-07-13,CUST-0149,Stapler,Office Supplies,West,Surat,5,199,0.05,945.25,313.05
+ORD-01179,2025-07-13,CUST-0009,Stapler,Office Supplies,South,Chennai,3,199,0.15,507.45,143.65
+ORD-00130,2025-07-13,CUST-0009,Printer Paper,Office Supplies,West,Surat,3,399,0.1,1077.3,190.92
+ORD-00295,2025-07-13,CUST-0156,Desk Organizer,Office Supplies,West,Surat,1,699,0.05,664.05,186.72
+ORD-01121,2025-07-14,CUST-0165,Study Desk,Furniture,West,Pune,5,8999,0.2,35996.0,2114.76
+ORD-00482,2025-07-14,CUST-0280,Headphones,Electronics,South,Hyderabad,2,2499,0.05,4748.1,812.8
+ORD-00167,2025-07-14,CUST-0218,Office Chair,Furniture,South,Hyderabad,2,6499,0.1,11698.2,1488.27
+ORD-00732,2025-07-15,CUST-0018,Headphones,Electronics,West,Surat,3,2499,0.15,6372.45,784.37
+ORD-00571,2025-07-15,CUST-0228,Study Desk,Furniture,North,Jaipur,5,8999,0.05,42745.25,5607.5
+ORD-00869,2025-07-16,CUST-0220,Wireless Mouse,Electronics,West,Ahmedabad,3,599,0.0,1797.0,458.24
+ORD-00368,2025-07-16,CUST-0221,Headphones,Electronics,West,Ahmedabad,3,2499,0.15,6372.45,784.37
+ORD-00741,2025-07-16,CUST-0019,Notebook Pack,Office Supplies,West,Pune,3,299,0.1,807.3,223.8
+ORD-01011,2025-07-16,CUST-0246,USB-C Hub,Electronics,North,Jaipur,3,1899,0.0,5697.0,1566.67
+ORD-00330,2025-07-16,CUST-0241,Office Chair,Furniture,North,Delhi,4,6499,0.2,20796.8,1637.75
+ORD-00214,2025-07-16,CUST-0121,Printer Paper,Office Supplies,North,Jaipur,4,399,0.0,1596.0,359.1
+ORD-00576,2025-07-16,CUST-0001,Wireless Mouse,Electronics,North,Delhi,3,599,0.1,1617.3,335.14
+ORD-00398,2025-07-17,CUST-0046,Notebook Pack,Office Supplies,North,Delhi,4,299,0.2,956.8,218.87
+ORD-00054,2025-07-17,CUST-0007,Wireless Mouse,Electronics,North,Lucknow,1,599,0.0,599.0,152.75
+ORD-00126,2025-07-17,CUST-0241,Office Chair,Furniture,East,Patna,1,6499,0.1,5849.1,744.14
+ORD-00029,2025-07-17,CUST-0143,Bookshelf,Furniture,North,Jaipur,5,4999,0.1,22495.5,3311.84
+ORD-00579,2025-07-18,CUST-0297,USB-C Hub,Electronics,East,Patna,4,1899,0.1,6836.4,1553.38
+ORD-00079,2025-07-18,CUST-0004,Office Chair,Furniture,West,Pune,3,6499,0.1,17547.3,2232.41
+ORD-00212,2025-07-19,CUST-0211,Stapler,Office Supplies,East,Patna,2,199,0.1,358.2,110.05
+ORD-00413,2025-07-19,CUST-0128,Stapler,Office Supplies,North,Chandigarh,3,199,0.0,597.0,211.94
+ORD-00023,2025-07-19,CUST-0054,Bookshelf,Furniture,West,Ahmedabad,2,4999,0.1,8998.2,1324.73
+ORD-00003,2025-07-19,CUST-0134,Wireless Mouse,Electronics,East,Guwahati,4,599,0.15,2036.6,372.88
+ORD-00780,2025-07-19,CUST-0058,Bookshelf,Furniture,North,Delhi,3,4999,0.0,14997.0,2924.41
+ORD-00697,2025-07-19,CUST-0210,Study Desk,Furniture,South,Bengaluru,5,8999,0.1,40495.5,4342.02
+ORD-00088,2025-07-20,CUST-0190,Wireless Mouse,Electronics,West,Ahmedabad,3,599,0.1,1617.3,335.14
+ORD-00954,2025-07-20,CUST-0213,Headphones,Electronics,South,Bengaluru,3,2499,0.0,7497.0,1461.91
+ORD-00665,2025-07-20,CUST-0182,USB-C Hub,Electronics,North,Chandigarh,4,1899,0.15,6456.6,1311.26
+ORD-00765,2025-07-20,CUST-0217,Printer Paper,Office Supplies,South,Bengaluru,3,399,0.0,1197.0,269.32
+ORD-01100,2025-07-21,CUST-0077,USB-C Hub,Electronics,East,Bhubaneswar,2,1899,0.0,3798.0,1044.45
+ORD-00547,2025-07-21,CUST-0082,Monitor,Electronics,North,Delhi,3,10999,0.05,31347.15,4112.25
+ORD-00972,2025-07-21,CUST-0084,Printer Paper,Office Supplies,North,Lucknow,4,399,0.0,1596.0,359.1
+ORD-00783,2025-07-21,CUST-0119,Office Chair,Furniture,North,Chandigarh,5,6499,0.05,30870.25,4667.09
+ORD-00949,2025-07-21,CUST-0022,Wireless Mouse,Electronics,West,Pune,4,599,0.0,2396.0,610.98
+ORD-00445,2025-07-21,CUST-0270,Monitor,Electronics,North,Lucknow,3,10999,0.0,32997.0,5114.53
+ORD-00113,2025-07-23,CUST-0195,Keyboard,Electronics,West,Surat,5,1299,0.1,5845.5,1035.95
+ORD-00542,2025-07-23,CUST-0193,Bookshelf,Furniture,East,Bhubaneswar,2,4999,0.0,9998.0,1949.61
+ORD-00960,2025-07-23,CUST-0228,USB-C Hub,Electronics,West,Pune,3,1899,0.15,4842.45,983.44
+ORD-00541,2025-07-24,CUST-0213,Desk Organizer,Office Supplies,South,Bengaluru,2,699,0.15,1188.3,276.98
+ORD-00889,2025-07-24,CUST-0033,Keyboard,Electronics,North,Delhi,5,1299,0.2,5196.0,668.98
+ORD-00843,2025-07-24,CUST-0171,Pen Set,Office Supplies,North,Delhi,3,149,0.0,447.0,167.62
+ORD-00580,2025-07-25,CUST-0127,Keyboard,Electronics,East,Bhubaneswar,2,1299,0.1,2338.2,414.38
+ORD-00326,2025-07-25,CUST-0124,Notebook Pack,Office Supplies,North,Delhi,1,299,0.0,299.0,97.17
+ORD-00552,2025-07-26,CUST-0158,Stapler,Office Supplies,East,Patna,4,199,0.1,716.4,220.09
+ORD-00008,2025-07-26,CUST-0201,Headphones,Electronics,West,Ahmedabad,3,2499,0.0,7497.0,1461.91
+ORD-01000,2025-07-26,CUST-0185,USB-C Hub,Electronics,West,Surat,3,1899,0.05,5412.15,1359.45
+ORD-00103,2025-07-26,CUST-0101,USB-C Hub,Electronics,East,Guwahati,1,1899,0.0,1899.0,522.22
+ORD-00119,2025-07-26,CUST-0003,Desk Organizer,Office Supplies,North,Jaipur,2,699,0.1,1258.2,323.64
+ORD-01056,2025-07-26,CUST-0220,Stapler,Office Supplies,South,Kochi,4,199,0.0,796.0,282.58
+ORD-01114,2025-07-27,CUST-0264,Monitor,Electronics,South,Kochi,1,10999,0.0,10999.0,1704.84
+ORD-00520,2025-07-27,CUST-0286,Printer Paper,Office Supplies,West,Pune,3,399,0.2,957.6,123.29
+ORD-00640,2025-07-27,CUST-0280,Study Desk,Furniture,South,Hyderabad,1,8999,0.0,8999.0,1394.84
+ORD-00655,2025-07-27,CUST-0212,Pen Set,Office Supplies,South,Bengaluru,4,149,0.1,536.4,175.52
+ORD-00551,2025-07-27,CUST-0265,Wireless Mouse,Electronics,South,Hyderabad,5,599,0.0,2995.0,763.73
+ORD-01160,2025-07-28,CUST-0119,Bookshelf,Furniture,South,Hyderabad,5,4999,0.1,22495.5,3311.84
+ORD-00220,2025-07-28,CUST-0051,Study Desk,Furniture,West,Ahmedabad,5,8999,0.15,38245.75,3177.77
+ORD-00176,2025-07-28,CUST-0175,Desk Organizer,Office Supplies,North,Lucknow,2,699,0.1,1258.2,323.64
+ORD-00013,2025-07-29,CUST-0191,Desk Organizer,Office Supplies,North,Chandigarh,3,699,0.15,1782.45,415.47
+ORD-00638,2025-07-30,CUST-0087,USB-C Hub,Electronics,South,Bengaluru,5,1899,0.0,9495.0,2611.12
+ORD-00608,2025-07-30,CUST-0191,Desk Organizer,Office Supplies,South,Kochi,1,699,0.0,699.0,213.2
+ORD-00750,2025-07-31,CUST-0061,Pen Set,Office Supplies,North,Chandigarh,5,149,0.05,707.75,248.55
+ORD-00795,2025-07-31,CUST-0023,Printer Paper,Office Supplies,West,Surat,3,399,0.0,1197.0,269.32
+ORD-00666,2025-07-31,CUST-0067,Stapler,Office Supplies,North,Delhi,5,199,0.1,895.5,275.12
+ORD-00268,2025-07-31,CUST-0113,Stapler,Office Supplies,West,Surat,3,199,0.15,507.45,143.65
+ORD-00272,2025-07-31,CUST-0050,USB-C Hub,Electronics,South,Hyderabad,3,1899,0.1,5127.3,1165.04
+ORD-00868,2025-08-01,CUST-0244,Keyboard,Electronics,West,Surat,1,1299,0.1,1169.1,207.19
+ORD-00775,2025-08-01,CUST-0300,USB-C Hub,Electronics,West,Mumbai,1,1899,0.0,1899.0,522.22
+ORD-00273,2025-08-01,CUST-0139,Notebook Pack,Office Supplies,North,Chandigarh,4,299,0.0,1196.0,388.7
+ORD-00744,2025-08-03,CUST-0143,Pen Set,Office Supplies,South,Chennai,5,149,0.2,596.0,166.13
+ORD-01076,2025-08-03,CUST-0249,Pen Set,Office Supplies,North,Lucknow,4,149,0.0,596.0,223.5
+ORD-00856,2025-08-03,CUST-0211,Headphones,Electronics,North,Chandigarh,5,2499,0.0,12495.0,2436.53
+ORD-01140,2025-08-04,CUST-0017,Wireless Mouse,Electronics,West,Ahmedabad,5,599,0.15,2545.75,466.1
+ORD-00916,2025-08-04,CUST-0023,Keyboard,Electronics,East,Guwahati,1,1299,0.05,1234.05,248.27
+ORD-00903,2025-08-04,CUST-0035,Table Lamp,Furniture,South,Kochi,5,1499,0.0,7495.0,2211.03
+ORD-00397,2025-08-04,CUST-0186,Desk Organizer,Office Supplies,North,Delhi,5,699,0.0,3495.0,1065.98
+ORD-00688,2025-08-06,CUST-0179,Table Lamp,Furniture,North,Jaipur,2,1499,0.0,2998.0,884.41
+ORD-00302,2025-08-07,CUST-0224,Office Chair,Furniture,South,Chennai,3,6499,0.0,19497.0,3411.97
+ORD-01015,2025-08-07,CUST-0296,Headphones,Electronics,North,Delhi,3,2499,0.1,6747.3,993.35
+ORD-00585,2025-08-09,CUST-0018,Printer Paper,Office Supplies,West,Surat,1,399,0.1,359.1,63.64
+ORD-00426,2025-08-09,CUST-0008,Table Lamp,Furniture,North,Jaipur,2,1499,0.0,2998.0,884.41
+ORD-00850,2025-08-09,CUST-0241,Headphones,Electronics,East,Bhubaneswar,1,2499,0.0,2499.0,487.3
+ORD-00345,2025-08-09,CUST-0149,Headphones,Electronics,West,Surat,4,2499,0.1,8996.4,1324.47
+ORD-00787,2025-08-10,CUST-0150,Table Lamp,Furniture,South,Bengaluru,3,1499,0.0,4497.0,1326.62
+ORD-00459,2025-08-10,CUST-0090,Notebook Pack,Office Supplies,South,Hyderabad,4,299,0.05,1136.2,342.21
+ORD-00611,2025-08-10,CUST-0185,Printer Paper,Office Supplies,West,Surat,4,399,0.15,1356.6,207.68
+ORD-00561,2025-08-10,CUST-0036,Notebook Pack,Office Supplies,North,Lucknow,1,299,0.1,269.1,74.6
+ORD-01194,2025-08-10,CUST-0240,Wireless Mouse,Electronics,East,Kolkata,2,599,0.1,1078.2,223.43
+ORD-00596,2025-08-12,CUST-0263,Notebook Pack,Office Supplies,South,Hyderabad,4,299,0.1,1076.4,298.4
+ORD-00568,2025-08-12,CUST-0014,Table Lamp,Furniture,South,Chennai,2,1499,0.05,2848.1,772.36
+ORD-00027,2025-08-12,CUST-0178,Keyboard,Electronics,East,Guwahati,3,1299,0.05,3702.15,744.81
+ORD-01033,2025-08-12,CUST-0195,Printer Paper,Office Supplies,East,Patna,1,399,0.05,379.05,76.26
+ORD-01161,2025-08-13,CUST-0153,Table Lamp,Furniture,South,Hyderabad,4,1499,0.1,5396.4,1334.11
+ORD-00183,2025-08-13,CUST-0295,Pen Set,Office Supplies,East,Guwahati,5,149,0.2,596.0,166.13
+ORD-00464,2025-08-13,CUST-0276,Keyboard,Electronics,West,Mumbai,4,1299,0.05,4936.2,993.09
+ORD-00263,2025-08-14,CUST-0012,Office Chair,Furniture,East,Guwahati,3,6499,0.0,19497.0,3411.97
+ORD-01104,2025-08-14,CUST-0172,Desk Organizer,Office Supplies,West,Pune,1,699,0.0,699.0,213.2
+ORD-00361,2025-08-14,CUST-0203,Office Chair,Furniture,South,Kochi,1,6499,0.1,5849.1,744.14
+ORD-00698,2025-08-14,CUST-0150,Pen Set,Office Supplies,South,Chennai,4,149,0.0,596.0,223.5
+ORD-00994,2025-08-14,CUST-0187,Wireless Mouse,Electronics,North,Delhi,2,599,0.0,1198.0,305.49
+ORD-01167,2025-08-15,CUST-0165,Stapler,Office Supplies,North,Chandigarh,2,199,0.1,358.2,110.05
+ORD-01142,2025-08-15,CUST-0185,Table Lamp,Furniture,East,Bhubaneswar,5,1499,0.0,7495.0,2211.03
+ORD-00758,2025-08-15,CUST-0210,Notebook Pack,Office Supplies,East,Patna,1,299,0.05,284.05,85.55
+ORD-01197,2025-08-16,CUST-0201,Office Chair,Furniture,South,Chennai,5,6499,0.05,30870.25,4667.09
+ORD-00872,2025-08-17,CUST-0223,Stapler,Office Supplies,East,Patna,2,199,0.05,378.1,125.22
+ORD-00848,2025-08-17,CUST-0197,Headphones,Electronics,North,Chandigarh,5,2499,0.1,11245.5,1655.59
+ORD-00218,2025-08-17,CUST-0137,Stapler,Office Supplies,East,Kolkata,4,199,0.05,756.2,250.44
+ORD-00991,2025-08-17,CUST-0069,Keyboard,Electronics,South,Hyderabad,2,1299,0.2,2078.4,267.59
+ORD-00236,2025-08-17,CUST-0063,Desk Organizer,Office Supplies,North,Jaipur,2,699,0.0,1398.0,426.39
+ORD-00382,2025-08-17,CUST-0268,Bookshelf,Furniture,North,Jaipur,1,4999,0.15,4249.15,523.02
+ORD-00283,2025-08-17,CUST-0039,Notebook Pack,Office Supplies,East,Patna,5,299,0.2,1196.0,273.58
+ORD-01183,2025-08-17,CUST-0080,Printer Paper,Office Supplies,West,Ahmedabad,3,399,0.0,1197.0,269.32
+ORD-00301,2025-08-18,CUST-0244,Stapler,Office Supplies,East,Patna,2,199,0.05,378.1,125.22
+ORD-00883,2025-08-18,CUST-0078,Monitor,Electronics,West,Ahmedabad,4,10999,0.0,43996.0,6819.38
+ORD-00707,2025-08-18,CUST-0212,USB-C Hub,Electronics,West,Mumbai,3,1899,0.0,5697.0,1566.67
+ORD-00060,2025-08-18,CUST-0193,Pen Set,Office Supplies,East,Bhubaneswar,5,149,0.15,633.25,191.93
+ORD-01098,2025-08-18,CUST-0224,Desk Organizer,Office Supplies,East,Guwahati,1,699,0.05,664.05,186.72
+ORD-00751,2025-08-19,CUST-0140,Monitor,Electronics,South,Kochi,3,10999,0.15,28047.45,2330.41
+ORD-00462,2025-08-20,CUST-0270,Monitor,Electronics,South,Hyderabad,3,10999,0.1,29697.3,3184.21
+ORD-00010,2025-08-21,CUST-0042,Stapler,Office Supplies,North,Chandigarh,2,199,0.1,358.2,110.05
+ORD-00269,2025-08-21,CUST-0295,Keyboard,Electronics,East,Patna,3,1299,0.1,3507.3,621.57
+ORD-01048,2025-08-21,CUST-0170,Bookshelf,Furniture,West,Pune,1,4999,0.05,4749.05,812.96
+ORD-00766,2025-08-21,CUST-0188,Study Desk,Furniture,North,Delhi,2,8999,0.2,14398.4,845.91
+ORD-00834,2025-08-22,CUST-0138,Monitor,Electronics,West,Surat,3,10999,0.1,29697.3,3184.21
+ORD-00978,2025-08-22,CUST-0300,Stapler,Office Supplies,West,Mumbai,4,199,0.05,756.2,250.44
+ORD-01143,2025-08-22,CUST-0032,Stapler,Office Supplies,South,Chennai,5,199,0.1,895.5,275.12
+ORD-00606,2025-08-22,CUST-0114,Keyboard,Electronics,North,Chandigarh,5,1299,0.1,5845.5,1035.95
+ORD-01010,2025-08-22,CUST-0295,Printer Paper,Office Supplies,West,Surat,5,399,0.0,1995.0,448.88
+ORD-00924,2025-08-23,CUST-0154,Headphones,Electronics,West,Pune,3,2499,0.05,7122.15,1219.2
+ORD-00057,2025-08-23,CUST-0172,Headphones,Electronics,West,Surat,2,2499,0.0,4998.0,974.61
+ORD-01126,2025-08-23,CUST-0092,Study Desk,Furniture,South,Hyderabad,4,8999,0.0,35996.0,5579.38
+ORD-00806,2025-08-25,CUST-0272,Printer Paper,Office Supplies,South,Hyderabad,4,399,0.05,1516.2,305.04
+ORD-00590,2025-08-26,CUST-0263,Office Chair,Furniture,North,Lucknow,4,6499,0.2,20796.8,1637.75
+ORD-00359,2025-08-26,CUST-0273,Pen Set,Office Supplies,North,Chandigarh,2,149,0.1,268.2,87.76
+ORD-00109,2025-08-26,CUST-0043,Stapler,Office Supplies,South,Bengaluru,5,199,0.2,796.0,205.96
+ORD-00468,2025-08-27,CUST-0021,Pen Set,Office Supplies,East,Guwahati,2,149,0.1,268.2,87.76
+ORD-00811,2025-08-27,CUST-0249,Notebook Pack,Office Supplies,South,Bengaluru,3,299,0.05,852.15,256.65
+ORD-00990,2025-08-28,CUST-0208,Notebook Pack,Office Supplies,South,Chennai,4,299,0.1,1076.4,298.4
+ORD-00588,2025-08-28,CUST-0004,Bookshelf,Furniture,North,Lucknow,1,4999,0.0,4999.0,974.8
+ORD-00262,2025-08-28,CUST-0284,Notebook Pack,Office Supplies,South,Bengaluru,4,299,0.0,1196.0,388.7
+ORD-00341,2025-08-29,CUST-0143,Notebook Pack,Office Supplies,East,Bhubaneswar,2,299,0.1,538.2,149.2
+ORD-00963,2025-08-29,CUST-0129,Office Chair,Furniture,South,Kochi,3,6499,0.2,15597.6,1228.31
+ORD-01096,2025-08-29,CUST-0300,USB-C Hub,Electronics,West,Mumbai,3,1899,0.1,5127.3,1165.04
+ORD-00999,2025-08-30,CUST-0179,Keyboard,Electronics,East,Bhubaneswar,4,1299,0.05,4936.2,993.09
+ORD-00393,2025-08-30,CUST-0222,Study Desk,Furniture,North,Lucknow,3,8999,0.0,26997.0,4184.53
+ORD-00985,2025-08-30,CUST-0143,Bookshelf,Furniture,West,Ahmedabad,2,4999,0.15,8498.3,1046.04
+ORD-00196,2025-08-30,CUST-0057,Office Chair,Furniture,North,Chandigarh,3,6499,0.1,17547.3,2232.41
+ORD-00931,2025-08-31,CUST-0126,Printer Paper,Office Supplies,East,Bhubaneswar,1,399,0.0,399.0,89.78
+ORD-00048,2025-08-31,CUST-0033,Printer Paper,Office Supplies,North,Lucknow,4,399,0.0,1596.0,359.1
+ORD-00082,2025-08-31,CUST-0300,Desk Organizer,Office Supplies,North,Chandigarh,5,699,0.0,3495.0,1065.98
+ORD-01090,2025-08-31,CUST-0134,Keyboard,Electronics,East,Bhubaneswar,2,1299,0.1,2338.2,414.38
+ORD-01141,2025-08-31,CUST-0161,Notebook Pack,Office Supplies,West,Surat,1,299,0.15,254.15,64.32
+ORD-00449,2025-08-31,CUST-0116,USB-C Hub,Electronics,West,Pune,2,1899,0.0,3798.0,1044.45
+ORD-00589,2025-08-31,CUST-0086,Stapler,Office Supplies,West,Mumbai,5,199,0.0,995.0,353.23
+ORD-00537,2025-08-31,CUST-0086,Printer Paper,Office Supplies,East,Bhubaneswar,1,399,0.1,359.1,63.64
+ORD-00374,2025-09-01,CUST-0250,Printer Paper,Office Supplies,East,Bhubaneswar,2,399,0.1,718.2,127.28
+ORD-00105,2025-09-01,CUST-0036,Printer Paper,Office Supplies,North,Lucknow,1,399,0.1,359.1,63.64
+ORD-00893,2025-09-01,CUST-0053,Bookshelf,Furniture,North,Jaipur,2,4999,0.2,7998.4,789.84
+ORD-00316,2025-09-01,CUST-0262,Wireless Mouse,Electronics,East,Kolkata,5,599,0.2,2396.0,380.37
+ORD-00086,2025-09-02,CUST-0241,Stapler,Office Supplies,West,Pune,5,199,0.0,995.0,353.23
+ORD-00436,2025-09-02,CUST-0291,Bookshelf,Furniture,North,Jaipur,5,4999,0.0,24995.0,4874.02
+ORD-00526,2025-09-02,CUST-0073,Bookshelf,Furniture,South,Chennai,2,4999,0.0,9998.0,1949.61
+ORD-00774,2025-09-02,CUST-0141,Keyboard,Electronics,South,Bengaluru,2,1299,0.1,2338.2,414.38
+ORD-00992,2025-09-03,CUST-0215,Headphones,Electronics,East,Patna,2,2499,0.05,4748.1,812.8
+ORD-00266,2025-09-03,CUST-0049,Stapler,Office Supplies,North,Chandigarh,3,199,0.0,597.0,211.94
+ORD-00818,2025-09-03,CUST-0054,Pen Set,Office Supplies,South,Bengaluru,4,149,0.0,596.0,223.5
+ORD-00488,2025-09-03,CUST-0227,Notebook Pack,Office Supplies,South,Bengaluru,4,299,0.05,1136.2,342.21
+ORD-01094,2025-09-03,CUST-0029,Notebook Pack,Office Supplies,East,Bhubaneswar,1,299,0.1,269.1,74.6
+ORD-00643,2025-09-03,CUST-0044,Wireless Mouse,Electronics,South,Kochi,4,599,0.1,2156.4,446.85
+ORD-00917,2025-09-04,CUST-0202,Desk Organizer,Office Supplies,East,Guwahati,5,699,0.2,2796.0,583.66
+ORD-00651,2025-09-04,CUST-0012,Printer Paper,Office Supplies,South,Chennai,2,399,0.05,758.1,152.52
+ORD-00133,2025-09-04,CUST-0103,Headphones,Electronics,East,Guwahati,1,2499,0.0,2499.0,487.3
+ORD-00513,2025-09-05,CUST-0182,Bookshelf,Furniture,South,Bengaluru,4,4999,0.1,17996.4,2649.47
+ORD-00836,2025-09-05,CUST-0270,Study Desk,Furniture,South,Hyderabad,5,8999,0.1,40495.5,4342.02
+ORD-00352,2025-09-05,CUST-0277,Office Chair,Furniture,West,Pune,5,6499,0.2,25996.0,2047.18
+ORD-00884,2025-09-05,CUST-0154,Stapler,Office Supplies,South,Kochi,1,199,0.0,199.0,70.65
+ORD-00979,2025-09-05,CUST-0208,USB-C Hub,Electronics,North,Jaipur,3,1899,0.0,5697.0,1566.67
+ORD-00005,2025-09-05,CUST-0234,Desk Organizer,Office Supplies,North,Delhi,5,699,0.15,2970.75,692.45
+ORD-00500,2025-09-05,CUST-0150,Table Lamp,Furniture,South,Hyderabad,2,1499,0.15,2548.3,568.5
+ORD-00592,2025-09-06,CUST-0275,Monitor,Electronics,West,Ahmedabad,1,10999,0.0,10999.0,1704.84
+ORD-00383,2025-09-06,CUST-0046,Headphones,Electronics,West,Ahmedabad,5,2499,0.1,11245.5,1655.59
+ORD-00372,2025-09-07,CUST-0079,Stapler,Office Supplies,West,Ahmedabad,2,199,0.0,398.0,141.29
+ORD-01022,2025-09-08,CUST-0252,Table Lamp,Furniture,West,Surat,2,1499,0.1,2698.2,667.05
+ORD-00115,2025-09-09,CUST-0256,USB-C Hub,Electronics,East,Bhubaneswar,3,1899,0.15,4842.45,983.44
+ORD-00403,2025-09-09,CUST-0125,Headphones,Electronics,North,Jaipur,1,2499,0.05,2374.05,406.4
+ORD-00782,2025-09-10,CUST-0246,Notebook Pack,Office Supplies,East,Bhubaneswar,5,299,0.1,1345.5,373.0
+ORD-01134,2025-09-10,CUST-0250,Stapler,Office Supplies,North,Lucknow,5,199,0.1,895.5,275.12
+ORD-01063,2025-09-11,CUST-0104,Table Lamp,Furniture,North,Chandigarh,2,1499,0.1,2698.2,667.05
+ORD-00934,2025-09-11,CUST-0083,Bookshelf,Furniture,East,Guwahati,2,4999,0.15,8498.3,1046.04
+ORD-01050,2025-09-12,CUST-0247,Notebook Pack,Office Supplies,South,Chennai,2,299,0.0,598.0,194.35
+ORD-00669,2025-09-13,CUST-0151,Monitor,Electronics,East,Bhubaneswar,1,10999,0.0,10999.0,1704.84
+ORD-00527,2025-09-13,CUST-0157,Headphones,Electronics,North,Chandigarh,5,2499,0.1,11245.5,1655.59
+ORD-00977,2025-09-13,CUST-0258,USB-C Hub,Electronics,South,Kochi,4,1899,0.05,7216.2,1812.6
+ORD-01083,2025-09-13,CUST-0219,Wireless Mouse,Electronics,East,Patna,2,599,0.0,1198.0,305.49
+ORD-00503,2025-09-14,CUST-0070,Bookshelf,Furniture,North,Chandigarh,1,4999,0.0,4999.0,974.8
+ORD-00927,2025-09-14,CUST-0195,Wireless Mouse,Electronics,North,Lucknow,2,599,0.0,1198.0,305.49
+ORD-00892,2025-09-15,CUST-0248,Monitor,Electronics,West,Ahmedabad,3,10999,0.0,32997.0,5114.53
+ORD-00154,2025-09-15,CUST-0187,USB-C Hub,Electronics,West,Surat,1,1899,0.0,1899.0,522.22
+ORD-00578,2025-09-16,CUST-0039,Headphones,Electronics,West,Pune,5,2499,0.0,12495.0,2436.53
+ORD-00847,2025-09-16,CUST-0021,Desk Organizer,Office Supplies,West,Pune,4,699,0.15,2376.6,553.96
+ORD-00975,2025-09-16,CUST-0156,Bookshelf,Furniture,West,Ahmedabad,4,4999,0.1,17996.4,2649.47
+ORD-00280,2025-09-16,CUST-0120,Monitor,Electronics,South,Bengaluru,5,10999,0.1,49495.5,5307.02
+ORD-00452,2025-09-17,CUST-0129,Office Chair,Furniture,East,Guwahati,4,6499,0.0,25996.0,4549.3
+ORD-00835,2025-09-18,CUST-0237,Pen Set,Office Supplies,South,Chennai,5,149,0.0,745.0,279.38
+ORD-00980,2025-09-18,CUST-0238,Office Chair,Furniture,West,Surat,3,6499,0.15,16572.45,1708.42
+ORD-00442,2025-09-18,CUST-0032,Study Desk,Furniture,South,Chennai,3,8999,0.0,26997.0,4184.53
+ORD-00831,2025-09-19,CUST-0175,Headphones,Electronics,South,Chennai,3,2499,0.05,7122.15,1219.2
+ORD-00501,2025-09-19,CUST-0084,Monitor,Electronics,South,Kochi,5,10999,0.15,46745.75,3884.02
+ORD-00874,2025-09-19,CUST-0130,Keyboard,Electronics,North,Chandigarh,3,1299,0.0,3897.0,876.83
+ORD-00648,2025-09-19,CUST-0097,Headphones,Electronics,East,Kolkata,2,2499,0.05,4748.1,812.8
+ORD-00297,2025-09-20,CUST-0192,Table Lamp,Furniture,West,Ahmedabad,3,1499,0.0,4497.0,1326.62
+ORD-00570,2025-09-20,CUST-0113,Table Lamp,Furniture,West,Ahmedabad,1,1499,0.15,1274.15,284.25
+ORD-00763,2025-09-20,CUST-0130,Table Lamp,Furniture,West,Surat,3,1499,0.0,4497.0,1326.62
+ORD-00202,2025-09-20,CUST-0139,Office Chair,Furniture,East,Patna,2,6499,0.1,11698.2,1488.27
+ORD-01116,2025-09-21,CUST-0226,Wireless Mouse,Electronics,East,Patna,4,599,0.15,2036.6,372.88
+ORD-00394,2025-09-21,CUST-0153,Monitor,Electronics,South,Bengaluru,5,10999,0.05,52245.25,6853.75
+ORD-00112,2025-09-21,CUST-0148,Wireless Mouse,Electronics,North,Delhi,3,599,0.1,1617.3,335.14
+ORD-00745,2025-09-21,CUST-0246,Bookshelf,Furniture,South,Hyderabad,5,4999,0.05,23745.25,4064.81
+ORD-00286,2025-09-22,CUST-0134,Office Chair,Furniture,West,Ahmedabad,1,6499,0.15,5524.15,569.47
+ORD-00682,2025-09-22,CUST-0031,Printer Paper,Office Supplies,South,Chennai,2,399,0.1,718.2,127.28
+ORD-00861,2025-09-23,CUST-0004,Study Desk,Furniture,South,Bengaluru,5,8999,0.05,42745.25,5607.5
+ORD-00188,2025-09-23,CUST-0031,Monitor,Electronics,East,Bhubaneswar,1,10999,0.15,9349.15,776.8
+ORD-00400,2025-09-24,CUST-0157,Notebook Pack,Office Supplies,North,Lucknow,2,299,0.15,508.3,128.64
+ORD-00693,2025-09-24,CUST-0226,Study Desk,Furniture,East,Bhubaneswar,1,8999,0.0,8999.0,1394.84
+ORD-00271,2025-09-24,CUST-0263,Pen Set,Office Supplies,East,Kolkata,2,149,0.05,283.1,99.42
+ORD-00890,2025-09-25,CUST-0007,Bookshelf,Furniture,North,Jaipur,3,4999,0.1,13497.3,1987.1
+ORD-00626,2025-09-25,CUST-0284,Keyboard,Electronics,South,Chennai,1,1299,0.1,1169.1,207.19
+ORD-00805,2025-09-25,CUST-0239,USB-C Hub,Electronics,West,Pune,2,1899,0.2,3038.4,543.11
+ORD-00101,2025-09-25,CUST-0157,Printer Paper,Office Supplies,East,Kolkata,5,399,0.1,1795.5,318.2
+ORD-00428,2025-09-25,CUST-0254,Table Lamp,Furniture,North,Delhi,4,1499,0.15,5096.6,1136.99
+ORD-00467,2025-09-26,CUST-0129,Office Chair,Furniture,North,Jaipur,5,6499,0.0,32495.0,5686.62
+ORD-00135,2025-09-26,CUST-0179,Wireless Mouse,Electronics,South,Bengaluru,5,599,0.1,2695.5,558.57
+ORD-00074,2025-09-27,CUST-0270,Table Lamp,Furniture,East,Kolkata,4,1499,0.05,5696.2,1544.72
+ORD-00323,2025-09-27,CUST-0251,Monitor,Electronics,East,Patna,4,10999,0.05,41796.2,5483.0
+ORD-01117,2025-09-27,CUST-0216,Printer Paper,Office Supplies,North,Lucknow,2,399,0.1,718.2,127.28
+ORD-00145,2025-09-27,CUST-0031,Table Lamp,Furniture,North,Delhi,1,1499,0.2,1199.2,238.34
+ORD-00407,2025-09-27,CUST-0031,Monitor,Electronics,South,Kochi,2,10999,0.05,20898.1,2741.5
+ORD-00434,2025-09-28,CUST-0151,USB-C Hub,Electronics,East,Guwahati,3,1899,0.05,5412.15,1359.45
+ORD-00385,2025-09-28,CUST-0068,Bookshelf,Furniture,North,Chandigarh,3,4999,0.05,14247.15,2438.89
+ORD-01108,2025-09-29,CUST-0001,Printer Paper,Office Supplies,North,Delhi,4,399,0.05,1516.2,305.04
+ORD-00114,2025-09-29,CUST-0162,Desk Organizer,Office Supplies,East,Patna,1,699,0.05,664.05,186.72
+ORD-01021,2025-09-29,CUST-0248,Table Lamp,Furniture,North,Lucknow,1,1499,0.1,1349.1,333.53
+ORD-01035,2025-09-29,CUST-0053,Stapler,Office Supplies,South,Hyderabad,5,199,0.0,995.0,353.23
+ORD-00842,2025-09-29,CUST-0061,Pen Set,Office Supplies,West,Ahmedabad,1,149,0.05,141.55,49.71
+ORD-00006,2025-09-29,CUST-0205,Keyboard,Electronics,North,Jaipur,1,1299,0.0,1299.0,292.27
+ORD-01042,2025-09-29,CUST-0022,USB-C Hub,Electronics,West,Pune,5,1899,0.0,9495.0,2611.12
+ORD-00687,2025-09-30,CUST-0023,Office Chair,Furniture,South,Kochi,5,6499,0.0,32495.0,5686.62
+ORD-00887,2025-09-30,CUST-0173,USB-C Hub,Electronics,East,Guwahati,5,1899,0.05,9020.25,2265.74
+ORD-00190,2025-09-30,CUST-0102,USB-C Hub,Electronics,South,Bengaluru,5,1899,0.15,8070.75,1639.07
+ORD-00970,2025-09-30,CUST-0233,Headphones,Electronics,West,Mumbai,4,2499,0.0,9996.0,1949.22
+ORD-01147,2025-10-01,CUST-0047,Headphones,Electronics,East,Kolkata,4,2499,0.15,8496.6,1045.83
+ORD-00456,2025-10-01,CUST-0195,Wireless Mouse,Electronics,South,Hyderabad,2,599,0.15,1018.3,186.44
+ORD-00560,2025-10-02,CUST-0232,Bookshelf,Furniture,South,Kochi,2,4999,0.1,8998.2,1324.73
+ORD-00205,2025-10-02,CUST-0198,Desk Organizer,Office Supplies,South,Chennai,5,699,0.1,3145.5,809.09
+ORD-00210,2025-10-02,CUST-0075,USB-C Hub,Electronics,West,Mumbai,4,1899,0.15,6456.6,1311.26
+ORD-00809,2025-10-02,CUST-0145,Bookshelf,Furniture,East,Patna,1,4999,0.2,3999.2,394.92
+ORD-00600,2025-10-02,CUST-0030,Table Lamp,Furniture,South,Bengaluru,2,1499,0.2,2398.4,476.68
+ORD-00357,2025-10-03,CUST-0074,Headphones,Electronics,East,Guwahati,2,2499,0.0,4998.0,974.61
+ORD-01003,2025-10-03,CUST-0060,Monitor,Electronics,South,Bengaluru,2,10999,0.1,19798.2,2122.81
+ORD-00243,2025-10-03,CUST-0082,Notebook Pack,Office Supplies,East,Bhubaneswar,3,299,0.05,852.15,256.65
+ORD-00864,2025-10-03,CUST-0120,Study Desk,Furniture,East,Guwahati,4,8999,0.15,30596.6,2542.22
+ORD-00569,2025-10-04,CUST-0063,Pen Set,Office Supplies,North,Lucknow,3,149,0.0,447.0,167.62
+ORD-00567,2025-10-04,CUST-0206,USB-C Hub,Electronics,North,Lucknow,3,1899,0.15,4842.45,983.44
+ORD-00602,2025-10-04,CUST-0226,Desk Organizer,Office Supplies,South,Hyderabad,1,699,0.0,699.0,213.2
+ORD-00882,2025-10-04,CUST-0050,Bookshelf,Furniture,East,Bhubaneswar,2,4999,0.15,8498.3,1046.04
+ORD-00490,2025-10-04,CUST-0176,Office Chair,Furniture,West,Pune,3,6499,0.1,17547.3,2232.41
+ORD-01047,2025-10-05,CUST-0214,Notebook Pack,Office Supplies,East,Kolkata,3,299,0.05,852.15,256.65
+ORD-01088,2025-10-05,CUST-0047,Headphones,Electronics,East,Bhubaneswar,2,2499,0.2,3998.4,394.84
+ORD-00424,2025-10-05,CUST-0073,Desk Organizer,Office Supplies,North,Jaipur,1,699,0.0,699.0,213.2
+ORD-00532,2025-10-06,CUST-0068,Pen Set,Office Supplies,North,Jaipur,3,149,0.0,447.0,167.62
+ORD-01070,2025-10-06,CUST-0062,Monitor,Electronics,South,Kochi,4,10999,0.1,39596.4,4245.61
+ORD-00463,2025-10-06,CUST-0106,Stapler,Office Supplies,West,Pune,2,199,0.0,398.0,141.29
+ORD-00731,2025-10-06,CUST-0096,USB-C Hub,Electronics,West,Surat,2,1899,0.0,3798.0,1044.45
+ORD-00429,2025-10-06,CUST-0093,Notebook Pack,Office Supplies,North,Delhi,4,299,0.15,1016.6,257.29
+ORD-01064,2025-10-06,CUST-0099,Bookshelf,Furniture,West,Mumbai,5,4999,0.05,23745.25,4064.81
+ORD-00049,2025-10-07,CUST-0182,Pen Set,Office Supplies,East,Bhubaneswar,2,149,0.1,268.2,87.76
+ORD-01182,2025-10-07,CUST-0041,Printer Paper,Office Supplies,South,Bengaluru,4,399,0.0,1596.0,359.1
+ORD-00435,2025-10-07,CUST-0106,Study Desk,Furniture,North,Jaipur,3,8999,0.0,26997.0,4184.53
+ORD-00898,2025-10-07,CUST-0161,Keyboard,Electronics,East,Kolkata,1,1299,0.0,1299.0,292.27
+ORD-01030,2025-10-08,CUST-0084,Notebook Pack,Office Supplies,East,Guwahati,3,299,0.15,762.45,192.97
+ORD-00471,2025-10-08,CUST-0128,Headphones,Electronics,East,Patna,2,2499,0.1,4498.2,662.23
+ORD-00009,2025-10-08,CUST-0250,Office Chair,Furniture,East,Patna,4,6499,0.05,24696.2,3733.68
+ORD-01190,2025-10-09,CUST-0196,Wireless Mouse,Electronics,West,Ahmedabad,4,599,0.05,2276.2,526.22
+ORD-00956,2025-10-09,CUST-0197,Headphones,Electronics,North,Jaipur,1,2499,0.0,2499.0,487.3
+ORD-00443,2025-10-09,CUST-0277,Desk Organizer,Office Supplies,North,Jaipur,5,699,0.05,3320.25,933.6
+ORD-00945,2025-10-10,CUST-0022,Office Chair,Furniture,South,Hyderabad,2,6499,0.1,11698.2,1488.27
+ORD-00881,2025-10-10,CUST-0141,Desk Organizer,Office Supplies,South,Hyderabad,1,699,0.0,699.0,213.2
+ORD-00946,2025-10-10,CUST-0124,Monitor,Electronics,East,Bhubaneswar,2,10999,0.1,19798.2,2122.81
+ORD-00134,2025-10-10,CUST-0123,Printer Paper,Office Supplies,East,Patna,5,399,0.0,1995.0,448.88
+ORD-00938,2025-10-10,CUST-0219,Wireless Mouse,Electronics,North,Jaipur,3,599,0.15,1527.45,279.66
+ORD-00937,2025-10-10,CUST-0300,Stapler,Office Supplies,West,Pune,4,199,0.1,716.4,220.09
+ORD-00616,2025-10-10,CUST-0081,Desk Organizer,Office Supplies,North,Delhi,4,699,0.1,2516.4,647.27
+ORD-00784,2025-10-10,CUST-0130,Headphones,Electronics,South,Kochi,3,2499,0.1,6747.3,993.35
+ORD-00147,2025-10-11,CUST-0019,Wireless Mouse,Electronics,West,Surat,1,599,0.05,569.05,131.56
+ORD-00245,2025-10-12,CUST-0052,Wireless Mouse,Electronics,West,Ahmedabad,5,599,0.1,2695.5,558.57
+ORD-00502,2025-10-12,CUST-0193,Headphones,Electronics,East,Patna,5,2499,0.1,11245.5,1655.59
+ORD-01071,2025-10-12,CUST-0272,Printer Paper,Office Supplies,East,Patna,4,399,0.1,1436.4,254.56
+ORD-00343,2025-10-12,CUST-0091,Desk Organizer,Office Supplies,North,Lucknow,5,699,0.15,2970.75,692.45
+ORD-01132,2025-10-13,CUST-0225,Monitor,Electronics,East,Guwahati,4,10999,0.0,43996.0,6819.38
+ORD-00966,2025-10-14,CUST-0273,Table Lamp,Furniture,West,Surat,3,1499,0.15,3822.45,852.74
+ORD-00936,2025-10-15,CUST-0263,Wireless Mouse,Electronics,West,Pune,1,599,0.0,599.0,152.75
+ORD-00025,2025-10-15,CUST-0013,Office Chair,Furniture,South,Hyderabad,1,6499,0.05,6174.05,933.42
+ORD-00201,2025-10-15,CUST-0190,Keyboard,Electronics,North,Chandigarh,1,1299,0.0,1299.0,292.27
+ORD-00664,2025-10-16,CUST-0094,Wireless Mouse,Electronics,South,Kochi,1,599,0.0,599.0,152.75
+ORD-00281,2025-10-16,CUST-0057,Table Lamp,Furniture,West,Mumbai,5,1499,0.05,7120.25,1930.9
+ORD-00610,2025-10-16,CUST-0075,Notebook Pack,Office Supplies,North,Jaipur,4,299,0.2,956.8,218.87
+ORD-00064,2025-10-17,CUST-0285,Headphones,Electronics,North,Delhi,4,2499,0.0,9996.0,1949.22
+ORD-00056,2025-10-17,CUST-0256,Table Lamp,Furniture,North,Chandigarh,3,1499,0.15,3822.45,852.74
+ORD-00410,2025-10-17,CUST-0101,Keyboard,Electronics,North,Chandigarh,3,1299,0.0,3897.0,876.83
+ORD-00748,2025-10-17,CUST-0133,Pen Set,Office Supplies,North,Jaipur,4,149,0.15,506.6,153.54
+ORD-00694,2025-10-17,CUST-0291,Notebook Pack,Office Supplies,South,Chennai,2,299,0.05,568.1,171.1
+ORD-00591,2025-10-18,CUST-0156,Wireless Mouse,Electronics,East,Kolkata,1,599,0.2,479.2,76.07
+ORD-00290,2025-10-18,CUST-0061,Study Desk,Furniture,East,Bhubaneswar,3,8999,0.1,24297.3,2605.21
+ORD-01025,2025-10-18,CUST-0166,Bookshelf,Furniture,North,Delhi,3,4999,0.1,13497.3,1987.1
+ORD-00705,2025-10-19,CUST-0152,Bookshelf,Furniture,East,Guwahati,1,4999,0.05,4749.05,812.96
+ORD-00788,2025-10-19,CUST-0028,Headphones,Electronics,North,Jaipur,4,2499,0.05,9496.2,1625.6
+ORD-00491,2025-10-19,CUST-0188,Desk Organizer,Office Supplies,South,Bengaluru,4,699,0.15,2376.6,553.96
+ORD-00618,2025-10-19,CUST-0276,USB-C Hub,Electronics,West,Pune,3,1899,0.1,5127.3,1165.04
+ORD-00764,2025-10-20,CUST-0253,Table Lamp,Furniture,North,Delhi,2,1499,0.1,2698.2,667.05
+ORD-00634,2025-10-20,CUST-0182,Pen Set,Office Supplies,West,Mumbai,1,149,0.0,149.0,55.88
+ORD-00120,2025-10-21,CUST-0187,Wireless Mouse,Electronics,South,Hyderabad,4,599,0.2,1916.8,304.29
+ORD-00753,2025-10-21,CUST-0018,Printer Paper,Office Supplies,North,Jaipur,1,399,0.0,399.0,89.78
+ORD-00431,2025-10-21,CUST-0181,Notebook Pack,Office Supplies,West,Ahmedabad,4,299,0.15,1016.6,257.29
+ORD-00175,2025-10-21,CUST-0216,Printer Paper,Office Supplies,West,Mumbai,5,399,0.05,1895.25,381.29
+ORD-00377,2025-10-22,CUST-0101,Bookshelf,Furniture,South,Chennai,3,4999,0.1,13497.3,1987.1
+ORD-00559,2025-10-22,CUST-0254,Desk Organizer,Office Supplies,West,Pune,4,699,0.2,2236.8,466.93
+ORD-00508,2025-10-22,CUST-0153,Office Chair,Furniture,East,Kolkata,2,6499,0.0,12998.0,2274.65
+ORD-00923,2025-10-23,CUST-0097,Printer Paper,Office Supplies,North,Delhi,4,399,0.05,1516.2,305.04
+ORD-00704,2025-10-23,CUST-0230,Stapler,Office Supplies,South,Kochi,1,199,0.1,179.1,55.02
+ORD-00122,2025-10-23,CUST-0133,Printer Paper,Office Supplies,East,Kolkata,1,399,0.1,359.1,63.64
+ORD-00807,2025-10-24,CUST-0038,Office Chair,Furniture,North,Chandigarh,4,6499,0.1,23396.4,2976.54
+ORD-00216,2025-10-24,CUST-0101,USB-C Hub,Electronics,South,Hyderabad,3,1899,0.1,5127.3,1165.04
+ORD-01002,2025-10-25,CUST-0121,Bookshelf,Furniture,East,Patna,4,4999,0.1,17996.4,2649.47
+ORD-00554,2025-10-25,CUST-0298,Printer Paper,Office Supplies,North,Delhi,4,399,0.15,1356.6,207.68
+ORD-00951,2025-10-25,CUST-0278,Keyboard,Electronics,South,Bengaluru,2,1299,0.05,2468.1,496.54
+ORD-00776,2025-10-25,CUST-0126,Office Chair,Furniture,West,Mumbai,5,6499,0.0,32495.0,5686.62
+ORD-00519,2025-10-26,CUST-0089,Desk Organizer,Office Supplies,East,Guwahati,4,699,0.0,2796.0,852.78
+ORD-00865,2025-10-26,CUST-0061,Stapler,Office Supplies,South,Bengaluru,4,199,0.0,796.0,282.58
+ORD-00617,2025-10-27,CUST-0229,Keyboard,Electronics,West,Mumbai,4,1299,0.15,4416.6,676.13
+ORD-00085,2025-10-27,CUST-0182,Stapler,Office Supplies,West,Mumbai,1,199,0.0,199.0,70.65
+ORD-00015,2025-10-27,CUST-0018,Keyboard,Electronics,North,Chandigarh,5,1299,0.0,6495.0,1461.38
+ORD-01153,2025-10-27,CUST-0141,Keyboard,Electronics,East,Bhubaneswar,4,1299,0.2,4156.8,535.19
+ORD-00845,2025-10-28,CUST-0066,Keyboard,Electronics,West,Ahmedabad,2,1299,0.0,2598.0,584.55
+ORD-01181,2025-10-28,CUST-0140,Printer Paper,Office Supplies,West,Ahmedabad,1,399,0.15,339.15,51.92
+ORD-00968,2025-10-28,CUST-0047,Stapler,Office Supplies,West,Pune,1,199,0.0,199.0,70.65
+ORD-00317,2025-10-28,CUST-0182,Notebook Pack,Office Supplies,North,Delhi,3,299,0.0,897.0,291.52
+ORD-00789,2025-10-31,CUST-0054,USB-C Hub,Electronics,West,Surat,1,1899,0.1,1709.1,388.35
+ORD-01154,2025-10-31,CUST-0224,Table Lamp,Furniture,North,Chandigarh,4,1499,0.05,5696.2,1544.72
+ORD-01018,2025-10-31,CUST-0088,Bookshelf,Furniture,East,Guwahati,3,4999,0.2,11997.6,1184.76
+ORD-01060,2025-11-01,CUST-0028,Study Desk,Furniture,East,Patna,2,8999,0.0,17998.0,2789.69
+ORD-01053,2025-11-01,CUST-0111,Pen Set,Office Supplies,South,Chennai,1,149,0.15,126.65,38.39
+ORD-00454,2025-11-01,CUST-0261,Monitor,Electronics,East,Kolkata,3,10999,0.1,29697.3,3184.21
+ORD-00059,2025-11-02,CUST-0254,Notebook Pack,Office Supplies,West,Pune,5,299,0.0,1495.0,485.88
+ORD-00002,2025-11-03,CUST-0136,Desk Organizer,Office Supplies,East,Patna,4,699,0.0,2796.0,852.78
+ORD-00779,2025-11-03,CUST-0278,USB-C Hub,Electronics,South,Chennai,3,1899,0.1,5127.3,1165.04
+ORD-00046,2025-11-03,CUST-0032,Printer Paper,Office Supplies,West,Ahmedabad,3,399,0.1,1077.3,190.92
+ORD-00653,2025-11-03,CUST-0102,Wireless Mouse,Electronics,South,Chennai,1,599,0.05,569.05,131.56
+ORD-00166,2025-11-03,CUST-0077,Wireless Mouse,Electronics,South,Bengaluru,2,599,0.15,1018.3,186.44
+ORD-00197,2025-11-03,CUST-0046,Notebook Pack,Office Supplies,East,Guwahati,4,299,0.05,1136.2,342.21
+ORD-00346,2025-11-04,CUST-0119,Headphones,Electronics,North,Chandigarh,5,2499,0.0,12495.0,2436.53
+ORD-00363,2025-11-05,CUST-0249,Keyboard,Electronics,North,Chandigarh,4,1299,0.0,5196.0,1169.1
+ORD-00492,2025-11-05,CUST-0159,Office Chair,Furniture,South,Kochi,1,6499,0.0,6499.0,1137.33
+ORD-00244,2025-11-05,CUST-0020,Office Chair,Furniture,North,Jaipur,3,6499,0.1,17547.3,2232.41
+ORD-00160,2025-11-05,CUST-0213,Keyboard,Electronics,West,Ahmedabad,1,1299,0.1,1169.1,207.19
+ORD-01069,2025-11-06,CUST-0090,Monitor,Electronics,West,Ahmedabad,5,10999,0.1,49495.5,5307.02
+ORD-01115,2025-11-06,CUST-0098,USB-C Hub,Electronics,West,Ahmedabad,3,1899,0.15,4842.45,983.44
+ORD-00215,2025-11-06,CUST-0257,Stapler,Office Supplies,South,Chennai,3,199,0.2,477.6,123.58
+ORD-00930,2025-11-06,CUST-0140,Desk Organizer,Office Supplies,East,Kolkata,2,699,0.05,1328.1,373.44
+ORD-00880,2025-11-06,CUST-0234,Bookshelf,Furniture,West,Pune,4,4999,0.0,19996.0,3899.22
+ORD-00432,2025-11-07,CUST-0013,Pen Set,Office Supplies,West,Surat,2,149,0.05,283.1,99.42
+ORD-00232,2025-11-07,CUST-0233,Headphones,Electronics,West,Mumbai,1,2499,0.05,2374.05,406.4
+ORD-00292,2025-11-07,CUST-0114,Headphones,Electronics,West,Pune,3,2499,0.2,5997.6,592.26
+ORD-00484,2025-11-07,CUST-0280,Keyboard,Electronics,West,Surat,3,1299,0.0,3897.0,876.83
+ORD-01137,2025-11-08,CUST-0127,Printer Paper,Office Supplies,North,Chandigarh,1,399,0.1,359.1,63.64
+ORD-00790,2025-11-09,CUST-0089,Pen Set,Office Supplies,West,Ahmedabad,1,149,0.15,126.65,38.39
+ORD-01017,2025-11-09,CUST-0280,Headphones,Electronics,South,Chennai,3,2499,0.0,7497.0,1461.91
+ORD-01127,2025-11-09,CUST-0034,Bookshelf,Furniture,West,Surat,3,4999,0.0,14997.0,2924.41
+ORD-00338,2025-11-10,CUST-0119,Keyboard,Electronics,South,Hyderabad,3,1299,0.1,3507.3,621.57
+ORD-00334,2025-11-10,CUST-0261,Pen Set,Office Supplies,East,Kolkata,2,149,0.0,298.0,111.75
+ORD-00973,2025-11-10,CUST-0199,Office Chair,Furniture,East,Bhubaneswar,2,6499,0.15,11048.3,1138.95
+ORD-00549,2025-11-11,CUST-0109,Keyboard,Electronics,East,Patna,1,1299,0.15,1104.15,169.03
+ORD-00159,2025-11-11,CUST-0009,Headphones,Electronics,North,Lucknow,2,2499,0.0,4998.0,974.61
+ORD-00415,2025-11-11,CUST-0117,Notebook Pack,Office Supplies,North,Delhi,2,299,0.15,508.3,128.64
+ORD-00142,2025-11-11,CUST-0143,Study Desk,Furniture,East,Patna,4,8999,0.05,34196.2,4486.0
+ORD-00287,2025-11-11,CUST-0062,Stapler,Office Supplies,South,Bengaluru,1,199,0.0,199.0,70.65
+ORD-00971,2025-11-12,CUST-0027,Keyboard,Electronics,South,Bengaluru,5,1299,0.0,6495.0,1461.38
+ORD-00151,2025-11-12,CUST-0205,Keyboard,Electronics,North,Lucknow,2,1299,0.05,2468.1,496.54
+ORD-00083,2025-11-12,CUST-0009,Notebook Pack,Office Supplies,South,Hyderabad,1,299,0.15,254.15,64.32
+ORD-00475,2025-11-12,CUST-0110,Study Desk,Furniture,North,Lucknow,2,8999,0.0,17998.0,2789.69
+ORD-00599,2025-11-13,CUST-0169,Stapler,Office Supplies,East,Kolkata,2,199,0.1,358.2,110.05
+ORD-00288,2025-11-14,CUST-0294,Stapler,Office Supplies,West,Pune,3,199,0.2,477.6,123.58
+ORD-00448,2025-11-14,CUST-0162,Printer Paper,Office Supplies,West,Surat,2,399,0.05,758.1,152.52
+ORD-01156,2025-11-15,CUST-0027,Monitor,Electronics,South,Hyderabad,3,10999,0.1,29697.3,3184.21
+ORD-00983,2025-11-15,CUST-0098,Keyboard,Electronics,North,Delhi,2,1299,0.2,2078.4,267.59
+ORD-00512,2025-11-15,CUST-0010,Stapler,Office Supplies,West,Mumbai,2,199,0.05,378.1,125.22
+ORD-00461,2025-11-15,CUST-0131,Pen Set,Office Supplies,East,Kolkata,3,149,0.05,424.65,149.13
+ORD-00736,2025-11-17,CUST-0017,Pen Set,Office Supplies,North,Chandigarh,3,149,0.0,447.0,167.62
+ORD-00742,2025-11-18,CUST-0221,Monitor,Electronics,North,Delhi,4,10999,0.05,41796.2,5483.0
+ORD-01034,2025-11-18,CUST-0100,Printer Paper,Office Supplies,North,Jaipur,4,399,0.0,1596.0,359.1
+ORD-00414,2025-11-18,CUST-0152,Desk Organizer,Office Supplies,South,Kochi,5,699,0.0,3495.0,1065.98
+ORD-00358,2025-11-18,CUST-0024,Desk Organizer,Office Supplies,North,Chandigarh,4,699,0.15,2376.6,553.96
+ORD-00947,2025-11-19,CUST-0273,Headphones,Electronics,East,Kolkata,2,2499,0.0,4998.0,974.61
+ORD-01106,2025-11-19,CUST-0244,Stapler,Office Supplies,North,Delhi,1,199,0.2,159.2,41.19
+ORD-00324,2025-11-19,CUST-0012,Monitor,Electronics,West,Ahmedabad,3,10999,0.2,26397.6,1550.86
+ORD-00814,2025-11-19,CUST-0055,Desk Organizer,Office Supplies,North,Lucknow,4,699,0.2,2236.8,466.93
+ORD-00976,2025-11-21,CUST-0110,Table Lamp,Furniture,West,Ahmedabad,4,1499,0.05,5696.2,1544.72
+ORD-00940,2025-11-21,CUST-0233,Printer Paper,Office Supplies,North,Delhi,3,399,0.1,1077.3,190.92
+ORD-00447,2025-11-21,CUST-0225,Headphones,Electronics,South,Chennai,1,2499,0.2,1999.2,197.42
+ORD-00743,2025-11-21,CUST-0256,Notebook Pack,Office Supplies,East,Guwahati,5,299,0.15,1270.75,321.61
+ORD-00039,2025-11-22,CUST-0046,Stapler,Office Supplies,West,Mumbai,1,199,0.15,169.15,47.88
+ORD-00139,2025-11-22,CUST-0273,Keyboard,Electronics,East,Bhubaneswar,2,1299,0.05,2468.1,496.54
+ORD-01189,2025-11-22,CUST-0012,Desk Organizer,Office Supplies,South,Kochi,1,699,0.15,594.15,138.49
+ORD-00840,2025-11-23,CUST-0031,Table Lamp,Furniture,West,Mumbai,5,1499,0.0,7495.0,2211.03
+ORD-00894,2025-11-23,CUST-0071,Headphones,Electronics,West,Pune,4,2499,0.2,7996.8,789.68
+ORD-00058,2025-11-23,CUST-0031,Study Desk,Furniture,West,Mumbai,2,8999,0.1,16198.2,1736.81
+ORD-01159,2025-11-24,CUST-0232,Notebook Pack,Office Supplies,South,Chennai,1,299,0.0,299.0,97.17
+ORD-00311,2025-11-25,CUST-0071,Wireless Mouse,Electronics,North,Lucknow,2,599,0.05,1138.1,263.11
+ORD-00525,2025-11-25,CUST-0172,Stapler,Office Supplies,East,Bhubaneswar,2,199,0.2,318.4,82.39
+ORD-00018,2025-11-25,CUST-0151,Monitor,Electronics,South,Hyderabad,3,10999,0.0,32997.0,5114.53
+ORD-00747,2025-11-26,CUST-0051,Pen Set,Office Supplies,East,Bhubaneswar,3,149,0.1,402.3,131.64
+ORD-00839,2025-11-26,CUST-0084,Headphones,Electronics,South,Kochi,3,2499,0.15,6372.45,784.37
+ORD-00964,2025-11-26,CUST-0166,Keyboard,Electronics,West,Ahmedabad,3,1299,0.1,3507.3,621.57
+ORD-00562,2025-11-26,CUST-0050,Monitor,Electronics,North,Lucknow,4,10999,0.0,43996.0,6819.38
+ORD-00299,2025-11-26,CUST-0129,USB-C Hub,Electronics,East,Patna,4,1899,0.15,6456.6,1311.26
+ORD-00294,2025-11-26,CUST-0051,Notebook Pack,Office Supplies,North,Chandigarh,2,299,0.1,538.2,149.2
+ORD-00858,2025-11-26,CUST-0182,USB-C Hub,Electronics,East,Guwahati,2,1899,0.2,3038.4,543.11
+ORD-00668,2025-11-26,CUST-0157,Keyboard,Electronics,South,Hyderabad,5,1299,0.0,6495.0,1461.38
+ORD-00157,2025-11-28,CUST-0296,Keyboard,Electronics,East,Patna,3,1299,0.1,3507.3,621.57
+ORD-01016,2025-11-30,CUST-0216,Keyboard,Electronics,North,Jaipur,1,1299,0.05,1234.05,248.27
+ORD-01095,2025-11-30,CUST-0205,Bookshelf,Furniture,West,Ahmedabad,5,4999,0.0,24995.0,4874.02
+ORD-01119,2025-11-30,CUST-0171,Bookshelf,Furniture,East,Bhubaneswar,3,4999,0.0,14997.0,2924.41
+ORD-00524,2025-11-30,CUST-0271,Study Desk,Furniture,West,Pune,5,8999,0.15,38245.75,3177.77
+ORD-00425,2025-11-30,CUST-0114,USB-C Hub,Electronics,West,Pune,2,1899,0.0,3798.0,1044.45
+ORD-00952,2025-12-01,CUST-0280,Study Desk,Furniture,North,Lucknow,5,8999,0.0,44995.0,6974.22
+ORD-00723,2025-12-01,CUST-0181,Pen Set,Office Supplies,North,Lucknow,4,149,0.15,506.6,153.54
+ORD-00053,2025-12-01,CUST-0277,Wireless Mouse,Electronics,East,Bhubaneswar,2,599,0.0,1198.0,305.49
+ORD-00097,2025-12-02,CUST-0011,Table Lamp,Furniture,West,Surat,3,1499,0.05,4272.15,1158.54
+ORD-00496,2025-12-02,CUST-0284,Monitor,Electronics,West,Pune,1,10999,0.05,10449.05,1370.75
+ORD-00995,2025-12-02,CUST-0175,Table Lamp,Furniture,West,Mumbai,2,1499,0.15,2548.3,568.5
+ORD-00950,2025-12-02,CUST-0034,Headphones,Electronics,North,Lucknow,4,2499,0.15,8496.6,1045.83
+ORD-00067,2025-12-02,CUST-0040,Notebook Pack,Office Supplies,West,Ahmedabad,4,299,0.15,1016.6,257.29
+ORD-00375,2025-12-02,CUST-0272,USB-C Hub,Electronics,North,Delhi,5,1899,0.2,7596.0,1357.78
+ORD-00483,2025-12-02,CUST-0147,Stapler,Office Supplies,East,Bhubaneswar,3,199,0.1,537.3,165.07
+ORD-00974,2025-12-02,CUST-0191,Headphones,Electronics,North,Jaipur,2,2499,0.05,4748.1,812.8
+ORD-00914,2025-12-03,CUST-0173,Stapler,Office Supplies,East,Kolkata,1,199,0.1,179.1,55.02
+ORD-00487,2025-12-03,CUST-0210,Stapler,Office Supplies,South,Kochi,3,199,0.05,567.15,187.83
+ORD-01085,2025-12-03,CUST-0280,Table Lamp,Furniture,North,Chandigarh,4,1499,0.0,5996.0,1768.82
+ORD-00575,2025-12-03,CUST-0036,Table Lamp,Furniture,North,Delhi,1,1499,0.0,1499.0,442.2
+ORD-00168,2025-12-04,CUST-0155,Study Desk,Furniture,East,Patna,5,8999,0.05,42745.25,5607.5
+ORD-01113,2025-12-04,CUST-0280,Pen Set,Office Supplies,North,Lucknow,1,149,0.0,149.0,55.88
+ORD-00587,2025-12-04,CUST-0201,Bookshelf,Furniture,West,Surat,3,4999,0.15,12747.45,1569.06
+ORD-00735,2025-12-04,CUST-0238,USB-C Hub,Electronics,South,Hyderabad,2,1899,0.05,3608.1,906.3
+ORD-00498,2025-12-04,CUST-0183,Table Lamp,Furniture,East,Guwahati,5,1499,0.0,7495.0,2211.03
+ORD-00050,2025-12-05,CUST-0128,Desk Organizer,Office Supplies,South,Chennai,3,699,0.05,1992.15,560.16
+ORD-01125,2025-12-05,CUST-0004,Study Desk,Furniture,North,Lucknow,4,8999,0.1,32396.4,3473.61
+ORD-00852,2025-12-05,CUST-0084,USB-C Hub,Electronics,West,Ahmedabad,3,1899,0.2,4557.6,814.67
+ORD-00437,2025-12-05,CUST-0158,Printer Paper,Office Supplies,East,Patna,5,399,0.0,1995.0,448.88
+ORD-00853,2025-12-06,CUST-0206,Desk Organizer,Office Supplies,East,Bhubaneswar,2,699,0.15,1188.3,276.98
+ORD-00816,2025-12-07,CUST-0136,Study Desk,Furniture,South,Chennai,3,8999,0.0,26997.0,4184.53
+ORD-00499,2025-12-07,CUST-0266,Notebook Pack,Office Supplies,North,Delhi,1,299,0.2,239.2,54.72
+ORD-00793,2025-12-07,CUST-0104,Headphones,Electronics,West,Mumbai,4,2499,0.0,9996.0,1949.22
+ORD-00989,2025-12-07,CUST-0160,Pen Set,Office Supplies,West,Mumbai,3,149,0.2,357.6,99.68
+ORD-00344,2025-12-08,CUST-0249,Pen Set,Office Supplies,North,Delhi,4,149,0.1,536.4,175.52
+ORD-00540,2025-12-08,CUST-0262,USB-C Hub,Electronics,East,Patna,1,1899,0.05,1804.05,453.15
+ORD-00229,2025-12-08,CUST-0125,Keyboard,Electronics,East,Patna,5,1299,0.15,5520.75,845.16
+ORD-01172,2025-12-08,CUST-0076,Stapler,Office Supplies,South,Hyderabad,3,199,0.1,537.3,165.07
+ORD-00217,2025-12-08,CUST-0294,Headphones,Electronics,East,Guwahati,5,2499,0.15,10620.75,1307.29
+ORD-00595,2025-12-08,CUST-0152,Office Chair,Furniture,South,Chennai,1,6499,0.2,5199.2,409.44
+ORD-00265,2025-12-08,CUST-0100,Office Chair,Furniture,North,Jaipur,1,6499,0.15,5524.15,569.47
+ORD-00041,2025-12-08,CUST-0005,Pen Set,Office Supplies,East,Bhubaneswar,3,149,0.0,447.0,167.62
+ORD-00032,2025-12-09,CUST-0231,Notebook Pack,Office Supplies,North,Delhi,4,299,0.1,1076.4,298.4
+ORD-00690,2025-12-09,CUST-0247,Wireless Mouse,Electronics,South,Hyderabad,4,599,0.05,2276.2,526.22
+ORD-00510,2025-12-09,CUST-0089,Wireless Mouse,Electronics,East,Bhubaneswar,1,599,0.05,569.05,131.56
+ORD-00169,2025-12-09,CUST-0029,Wireless Mouse,Electronics,East,Bhubaneswar,3,599,0.05,1707.15,394.67
+ORD-00895,2025-12-09,CUST-0149,Stapler,Office Supplies,North,Delhi,4,199,0.0,796.0,282.58
+ORD-01001,2025-12-09,CUST-0014,Headphones,Electronics,South,Chennai,4,2499,0.0,9996.0,1949.22
+ORD-01118,2025-12-10,CUST-0185,Pen Set,Office Supplies,South,Bengaluru,2,149,0.05,283.1,99.42
+ORD-01059,2025-12-10,CUST-0229,Monitor,Electronics,North,Lucknow,5,10999,0.1,49495.5,5307.02
+ORD-00111,2025-12-10,CUST-0014,Table Lamp,Furniture,West,Pune,1,1499,0.2,1199.2,238.34
+ORD-00875,2025-12-10,CUST-0178,USB-C Hub,Electronics,West,Pune,3,1899,0.0,5697.0,1566.67
+ORD-00095,2025-12-12,CUST-0084,Table Lamp,Furniture,North,Delhi,1,1499,0.0,1499.0,442.2
+ORD-00838,2025-12-12,CUST-0148,Desk Organizer,Office Supplies,West,Surat,1,699,0.0,699.0,213.2
+ORD-01057,2025-12-13,CUST-0060,Pen Set,Office Supplies,North,Chandigarh,5,149,0.05,707.75,248.55
+ORD-00955,2025-12-13,CUST-0002,Study Desk,Furniture,North,Lucknow,1,8999,0.05,8549.05,1121.5
+ORD-00420,2025-12-14,CUST-0072,Monitor,Electronics,West,Ahmedabad,3,10999,0.0,32997.0,5114.53
+ORD-00127,2025-12-14,CUST-0015,Printer Paper,Office Supplies,East,Kolkata,1,399,0.05,379.05,76.26
+ORD-01008,2025-12-14,CUST-0229,Keyboard,Electronics,East,Guwahati,1,1299,0.15,1104.15,169.03
+ORD-00656,2025-12-15,CUST-0032,Notebook Pack,Office Supplies,North,Jaipur,3,299,0.05,852.15,256.65
+ORD-01198,2025-12-15,CUST-0145,Headphones,Electronics,West,Pune,2,2499,0.2,3998.4,394.84
+ORD-00460,2025-12-15,CUST-0219,Wireless Mouse,Electronics,South,Hyderabad,1,599,0.0,599.0,152.75
+ORD-00239,2025-12-15,CUST-0262,Table Lamp,Furniture,North,Delhi,5,1499,0.2,5996.0,1191.7
+ORD-01091,2025-12-16,CUST-0280,Wireless Mouse,Electronics,South,Hyderabad,4,599,0.0,2396.0,610.98
+ORD-01062,2025-12-16,CUST-0085,Office Chair,Furniture,East,Patna,2,6499,0.0,12998.0,2274.65
+ORD-01170,2025-12-17,CUST-0236,Desk Organizer,Office Supplies,East,Guwahati,2,699,0.0,1398.0,426.39
+ORD-01178,2025-12-17,CUST-0026,Keyboard,Electronics,North,Jaipur,1,1299,0.15,1104.15,169.03
+ORD-00194,2025-12-17,CUST-0063,Table Lamp,Furniture,East,Kolkata,1,1499,0.1,1349.1,333.53
+ORD-00065,2025-12-17,CUST-0255,Stapler,Office Supplies,North,Chandigarh,2,199,0.1,358.2,110.05
+ORD-01180,2025-12-17,CUST-0019,Pen Set,Office Supplies,West,Mumbai,5,149,0.1,670.5,219.4
+ORD-01004,2025-12-17,CUST-0132,USB-C Hub,Electronics,South,Kochi,3,1899,0.1,5127.3,1165.04
+ORD-00384,2025-12-17,CUST-0286,USB-C Hub,Electronics,South,Bengaluru,4,1899,0.1,6836.4,1553.38
+ORD-00137,2025-12-18,CUST-0191,Keyboard,Electronics,West,Ahmedabad,1,1299,0.05,1234.05,248.27
+ORD-00100,2025-12-18,CUST-0154,Office Chair,Furniture,North,Lucknow,4,6499,0.05,24696.2,3733.68
+ORD-00061,2025-12-19,CUST-0258,Desk Organizer,Office Supplies,West,Surat,3,699,0.1,1887.3,485.46
+ORD-01188,2025-12-19,CUST-0251,Office Chair,Furniture,West,Ahmedabad,2,6499,0.1,11698.2,1488.27
+ORD-00369,2025-12-19,CUST-0051,Keyboard,Electronics,South,Kochi,1,1299,0.2,1039.2,133.8
+ORD-00796,2025-12-20,CUST-0196,USB-C Hub,Electronics,West,Ahmedabad,1,1899,0.05,1804.05,453.15
+ORD-00260,2025-12-20,CUST-0117,Headphones,Electronics,West,Pune,1,2499,0.1,2249.1,331.12
+ORD-01193,2025-12-20,CUST-0209,Wireless Mouse,Electronics,West,Surat,3,599,0.05,1707.15,394.67
+ORD-00258,2025-12-20,CUST-0171,Desk Organizer,Office Supplies,North,Chandigarh,2,699,0.05,1328.1,373.44
+ORD-00706,2025-12-20,CUST-0146,Bookshelf,Furniture,West,Surat,1,4999,0.15,4249.15,523.02
+ORD-00701,2025-12-20,CUST-0216,Table Lamp,Furniture,South,Chennai,1,1499,0.1,1349.1,333.53
+ORD-00395,2025-12-21,CUST-0053,USB-C Hub,Electronics,East,Kolkata,4,1899,0.05,7216.2,1812.6
+ORD-00259,2025-12-21,CUST-0104,Study Desk,Furniture,South,Chennai,3,8999,0.05,25647.15,3364.5
+ORD-01036,2025-12-21,CUST-0159,Keyboard,Electronics,West,Ahmedabad,1,1299,0.1,1169.1,207.19
+ORD-00096,2025-12-21,CUST-0124,Monitor,Electronics,North,Chandigarh,4,10999,0.1,39596.4,4245.61
+ORD-00565,2025-12-22,CUST-0295,Monitor,Electronics,South,Hyderabad,1,10999,0.2,8799.2,516.95
+ORD-01144,2025-12-22,CUST-0031,Headphones,Electronics,East,Kolkata,5,2499,0.0,12495.0,2436.53
+ORD-01020,2025-12-22,CUST-0259,Office Chair,Furniture,South,Kochi,4,6499,0.15,22096.6,2277.9
+ORD-00165,2025-12-23,CUST-0251,Headphones,Electronics,South,Bengaluru,2,2499,0.1,4498.2,662.23
+ORD-00379,2025-12-23,CUST-0095,Wireless Mouse,Electronics,East,Guwahati,3,599,0.0,1797.0,458.24
+ORD-00904,2025-12-24,CUST-0074,Monitor,Electronics,North,Chandigarh,2,10999,0.15,18698.3,1553.61
+ORD-01199,2025-12-24,CUST-0172,Headphones,Electronics,South,Hyderabad,5,2499,0.2,9996.0,987.11
+ORD-01124,2025-12-24,CUST-0021,Wireless Mouse,Electronics,North,Delhi,5,599,0.1,2695.5,558.57
+ORD-00965,2025-12-24,CUST-0124,Printer Paper,Office Supplies,North,Jaipur,4,399,0.1,1436.4,254.56
+ORD-00928,2025-12-24,CUST-0067,USB-C Hub,Electronics,North,Delhi,4,1899,0.0,7596.0,2088.9
+ORD-00320,2025-12-24,CUST-0080,Desk Organizer,Office Supplies,West,Ahmedabad,1,699,0.15,594.15,138.49
+ORD-00409,2025-12-25,CUST-0295,Monitor,Electronics,East,Patna,4,10999,0.2,35196.8,2067.81
+ORD-00642,2025-12-25,CUST-0029,Office Chair,Furniture,West,Mumbai,1,6499,0.0,6499.0,1137.33
+ORD-01176,2025-12-25,CUST-0085,Bookshelf,Furniture,South,Chennai,1,4999,0.1,4499.1,662.37
+ORD-00322,2025-12-26,CUST-0130,Keyboard,Electronics,East,Patna,2,1299,0.05,2468.1,496.54
+ORD-00378,2025-12-26,CUST-0134,Headphones,Electronics,West,Pune,1,2499,0.15,2124.15,261.46
+ORD-01049,2025-12-27,CUST-0139,USB-C Hub,Electronics,North,Delhi,2,1899,0.0,3798.0,1044.45
+ORD-00204,2025-12-27,CUST-0135,Wireless Mouse,Electronics,South,Kochi,5,599,0.0,2995.0,763.73
+ORD-00238,2025-12-27,CUST-0197,Notebook Pack,Office Supplies,North,Lucknow,5,299,0.0,1495.0,485.88
+ORD-00315,2025-12-28,CUST-0033,Study Desk,Furniture,South,Kochi,3,8999,0.15,22947.45,1906.66
+ORD-00550,2025-12-28,CUST-0010,Notebook Pack,Office Supplies,West,Surat,1,299,0.05,284.05,85.55
+ORD-01173,2025-12-28,CUST-0202,Bookshelf,Furniture,West,Pune,4,4999,0.1,17996.4,2649.47
+ORD-00906,2025-12-29,CUST-0166,Office Chair,Furniture,South,Kochi,4,6499,0.0,25996.0,4549.3
+ORD-00328,2025-12-29,CUST-0219,Bookshelf,Furniture,North,Delhi,5,4999,0.0,24995.0,4874.02
+ORD-00873,2025-12-29,CUST-0224,Monitor,Electronics,South,Kochi,4,10999,0.2,35196.8,2067.81
+ORD-00594,2025-12-29,CUST-0055,Study Desk,Furniture,North,Chandigarh,2,8999,0.1,16198.2,1736.81
+ORD-00504,2025-12-30,CUST-0065,Pen Set,Office Supplies,West,Mumbai,2,149,0.1,268.2,87.76
+ORD-00156,2025-12-30,CUST-0257,Printer Paper,Office Supplies,South,Chennai,1,399,0.15,339.15,51.92
+ORD-01145,2025-12-30,CUST-0241,Pen Set,Office Supplies,West,Pune,1,149,0.15,126.65,38.39
+ORD-01158,2025-12-31,CUST-0139,Stapler,Office Supplies,East,Guwahati,5,199,0.15,845.75,239.42
+ORD-00365,2025-12-31,CUST-0222,Stapler,Office Supplies,North,Chandigarh,3,199,0.1,537.3,165.07
+ORD-00117,2025-12-31,CUST-0276,Table Lamp,Furniture,South,Hyderabad,1,1499,0.05,1424.05,386.18
+ORD-00624,2025-12-31,CUST-0082,Office Chair,Furniture,West,Surat,4,6499,0.0,25996.0,4549.3

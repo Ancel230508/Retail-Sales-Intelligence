@@ -1,0 +1,53 @@
+
+RETAIL SALES INTELLIGENCE PROJECT
+BUSINESS ANALYSIS REPORT
+
+Dataset:
+Synthetic retail transaction dataset
+Period: January 2025 - December 2025
+
+KEY BUSINESS KPIs
+
+Total Revenue: Rs. 9,601,799.50
+Total Profit: Rs. 1,463,519.03
+Total Orders: 1,200
+Average Order Value: Rs. 8,001.50
+Profit Margin: 15.24%
+Units Sold: 3,560
+Unique Customers: 297
+Average Discount: 7.62%
+
+BUSINESS FINDINGS
+
+1. CUSTOMER RETENTION
+Highest spending customer: CUST-0280
+Top 10 customer revenue contribution: 12.09%
+
+2. PRODUCT PROFITABILITY
+Highest margin product: Pen Set
+Highest total profit product: Monitor
+
+3. DISCOUNT STRATEGY
+Profit margin decreases from 18.67% at zero discount
+to 9.38% at a 20% discount.
+
+4. REGIONAL AND CITY PERFORMANCE
+Highest revenue region: North
+Highest revenue city: Kochi
+
+5. MONTHLY PERFORMANCE
+Best revenue month: 2025-07
+Weakest revenue month: 2025-08
+
+RECOMMENDATIONS
+
+- Develop targeted customer retention strategies.
+- Promote high-margin products.
+- Review pricing and costs of lower-margin products.
+- Evaluate discount effectiveness.
+- Investigate regional and city-level opportunities.
+- Investigate monthly revenue fluctuations.
+
+NOTE:
+The dataset is simulated and does not represent
+actual financial records of a retail company.
